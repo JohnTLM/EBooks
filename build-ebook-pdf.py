@@ -7,7 +7,8 @@ What it does, so the PDF stays clean:
   - drops the repeated book title and "Assembled draft" status line at the top of each part
   - drops the "# Front Matter" heading and the "---" separators
   - drops author-facing lines (*Notes: ...*, *Check: ...*, the appendices opening note,
-    and the closing "Check before publication" paragraph); these live in ebook-notes-and-checks.md
+    and the closing "Check before publication" paragraph); they stay in the Markdown chapters,
+    and verification-log.md records what was confirmed
   - turns each "Part X: bridge to ..." section into an unheaded closing passage
   - converts straight quotes and apostrophes to typographic ones
   - lays out a 6 x 9 in book: title page, copyright page, contents with page numbers,

@@ -96,7 +96,7 @@ These stay in the Markdown but don't print:
 
 - the repeated book title and the "*Assembled draft, step N of 6…*" line at the top of each part
 - the `# Front Matter` heading and the `---` separators
-- author-only paragraphs: lines starting `*Notes:` or `*Check:`, the italic note under `# Appendices`, and the closing "**Check before publication.**" paragraph. These are kept in `ebook-notes-and-checks.md`. Update that file when you change a chapter's Notes line.
+- author-only paragraphs: lines starting `*Notes:` or `*Check:`, the italic note under `# Appendices`, and the closing "**Check before publication.**" paragraph. The Notes lines stay in each chapter of the assembled files, and `verification-log.md` records what was confirmed, corrected or removed. Update the log when you change a chapter's Notes line.
 
 Inline "(check)" marks inside sentences and tables do print, because this is still a draft edition.
 
