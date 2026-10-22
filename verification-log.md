@@ -140,6 +140,8 @@ The website had a new Chapter 3, "Ignorance and Its Habit", added in another ses
 
 - Canon alignment, hidden-presence wording: Chapter 3, "the nature of appearing is there, and it goes unrecognised" now reads "appearing is taken as fixed, and its unfixed, dependent character goes unrecognised. Nothing hidden is waiting behind it to be found"; Chapter 23, "undo the habit that obscures it" now says freedom is not a hidden state a habit covers over, and practice undoes the habit of fixing, which takes clear knowing. PDF rebuilt.
 
+- Canon alignment, Note on Method (third kind of synthesis): "are not two equal descriptions" now reads "are not two interchangeable descriptions, though neither is higher than the other", so it no longer reads as ranking spontaneous presence above dependent arising (Chapter 18: "Neither is a higher description"). PDF rebuilt.
+
 ## Still open
 
 None.
