@@ -76,7 +76,7 @@ Each item in `UNRESOLVED-ISSUES-for-assembly.md` is listed with what was done. S
 
 **D. Appendix C**
 - D2. Round-to-chapter mappings read against the chapters: each round's chapters contain the material named.
-- D1. **Open.** The Companion's own rounds are not among the assembly inputs, and the table of contents describes the Companion as "rounds 1–5" while Appendix C lists eleven rounds. Needs the author's decision.
+- D1. Author's decision (2026-10-22): keep the eleven-round outline as the book's own path. Appendix C is retitled "The Beginner's Companion, in Eleven Rounds" and no longer claims to follow a separate Companion's numbering; the How to Read section says the same. The "Check" paragraph is removed.
 
 **E. Appendix D**
 - E1. Both confirmed: Dreyfus, *Proceedings and Addresses of the APA* 79, no. 2 (2005): 47–65 (PhilPapers); McDowell, "What Myth?", *Inquiry* 50, no. 4 (2007): 338–351, DOI 10.1080/00201740701489211. Part II Ch. 5 note updated.
@@ -122,10 +122,9 @@ Each item in `UNRESOLVED-ISSUES-for-assembly.md` is listed with what was done. S
 
 ## Still open
 
-- D1 (Appendix C rounds): needs the Beginner's Companion or the author's decision.
 - E7 (link check): needs a browser with normal network access.
 
 ## Not possible from here
 
 - A1 and A2: the Word files (`anatta-to-emptiness-v24-A4.docx`, `substrateless-world-v67-A4.docx`) are on the author's computer. The replacements are in `docx-and-pdf-replacements.md`, items 1 to 7, with the current and replacement text for each.
-- A3: the PDF builds from the assembled files with `build-ebook-pdf.py` (a trial build on 2026-10-22 gave 81 pages and 34 contents entries, with no warnings). Regenerate the final PDF once D1 and E7 are closed and A1 and A2 are done.
+- A3: the PDF builds from the assembled files with `build-ebook-pdf.py` (a trial build on 2026-10-22 gave 81 pages and 34 contents entries, with no warnings). Regenerate the final PDF once E7 is closed and A1 and A2 are done.

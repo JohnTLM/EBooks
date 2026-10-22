@@ -1,12 +1,12 @@
 # The Observer and the Taste of Presence
 
-*Assembled draft, step 5 of 6: appendices. Steps 1 to 4 hold the front matter and Parts I to IV. Verification pass of 2026-10-22 applied: unconfirmed entries removed; confirmed entries cited with their sources. Assembly brief items B, C and E closed (2026-10-22): verse index numbering and chapter mapping corrected; glossary aligned with Part IV; references confirmed or removed, uncited entries removed.*
+*Assembled draft, step 5 of 6: appendices. Steps 1 to 4 hold the front matter and Parts I to IV. Verification pass of 2026-10-22 applied: unconfirmed entries removed; confirmed entries cited with their sources. Assembly brief items B, C, D and E closed (2026-10-22): verse index numbering and chapter mapping corrected; glossary aligned with Part IV; references confirmed or removed, uncited entries removed.*
 
 ---
 
 # Appendices
 
-*Appendix A is an index to the verse text, not a reprint; the full translation stays in the N훮g훮rjuna volume, which carries the Sanskrit under a CC BY-NC-SA licence. Appendix B collects terms used across Parts I to IV, including the terms specific to this book's reading of nature, with the standard usage stated where the sources differ. Appendix C is a path outline for the Beginner's Companion. Appendix D lists the references cited in the chapters and the glossary.*
+*Appendix A is an index to the verse text, not a reprint; the full translation stays in the N훮g훮rjuna volume, which carries the Sanskrit under a CC BY-NC-SA licence. Appendix B collects terms used across Parts I to IV, including the terms specific to this book's reading of nature, with the standard usage stated where the sources differ. Appendix C is the Beginner's Companion, the book's own path in eleven rounds. Appendix D lists the references cited in the chapters and the glossary.*
 
 ---
 
@@ -106,9 +106,9 @@ The chapters of this book draw on the following verses of the *M큰lamadhyamakak�
 **Vikalpa.** Conceptual construction: the mode of mind that divides, names and asks which part carries identity.
 ---
 
-## Appendix C: The Beginner's Companion, Path Outline
+## Appendix C: The Beginner's Companion, in Eleven Rounds
 
-The Beginner's Companion is written as a series of rounds. The narrative chapters carry the argument, and the Companion gives a reader who wants a step-by-step path a way through it. The outline below maps each round to the chapters it supports.
+The Beginner's Companion is this book's own step-by-step path, in eleven rounds. The narrative chapters carry the argument, and the rounds give a reader who wants to practise a way through it, in the order of the chapters. Each round names the chapters it supports.
 
 - **Round 1: The observer.** Look for the witness behind seeing and hearing. Chapters 1 and 2.
 - **Round 2: Vividness without a viewer.** Notice that experience is vivid without a holder. Chapter 2.
@@ -121,8 +121,6 @@ The Beginner's Companion is written as a series of rounds. The narrative chapter
 - **Round 9: Analysis and seeing.** Use the dividing mind against itself, then rest in non-dividing seeing. Chapters 13 and 15.
 - **Round 10: The taste.** Notice seen as just seen, heard as just heard. Chapter 20.
 - **Round 11: The meal.** The painted food and painted hunger exercise. Chapter 21.
-
-*Check: the round numbering and titles are provisional. The Companion's own rounds, which are referred to in the manuscript inserts as Rounds Four and Five, need to be aligned with this outline before publication.*
 
 ---
 

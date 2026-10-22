@@ -50,7 +50,7 @@ Readers who want the argument straight through can read the chapters in order. E
 
 Readers who want to test the argument as they go can use the exercises that appear in the text. The chariot, the red patch, the bell, the candle and the meal are all invitations to look. The looking is more useful than the reading, and it is worth stopping to do it.
 
-Readers who want a step-by-step path can follow the Beginner's Companion, outlined in Appendix C. The Companion's rounds run alongside the narrative chapters and return to the same examples.
+Readers who want a step-by-step path can follow the Beginner's Companion in Appendix C. Its eleven rounds run alongside the narrative chapters and return to the same examples.
 
 Readers who want the sources can go to the appendices. Appendix A indexes the verses cited in the chapters. Appendix B gives the glossary, which should be read whenever a Dzogchen or Sanskrit term is unfamiliar. Appendix D lists the references. Where a passage depends on a specific translation, the reference names it.
 

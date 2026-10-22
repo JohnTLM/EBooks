@@ -157,4 +157,5 @@ All four articles flagged as provisional have now been read in full: *Isn't ener
 - Overlap 6: MMK 1.5, 15.10–11 and 2.18–21 are confirmed (1.5 has no salt-and-water passage). Visuddhimagga XVI.90, Tsongkhapa on accusation and praise, and MN 72 are not cited in the text. The Milindapañha lamp is cited in Chapter 8.
 - Appendix D now has 40 entries; the "eight new entries" count no longer applies.
 - Chapter titles in this plan are the working titles. The assembled text is authoritative (for example, Chapter 14 is "Reification and Svabhāva as a Way of Seeing" and Chapter 22 is "Recognition, Not Effort").
+- Appendix C keeps eleven rounds as the book's own path (author's decision, 2026-10-22), not the "rounds 1–5" planned above.
 - See `verification-log.md`, section "Assembly brief pass", for the item-by-item record.
