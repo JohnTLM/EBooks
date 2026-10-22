@@ -85,7 +85,7 @@ Each item in `UNRESOLVED-ISSUES-for-assembly.md` is listed with what was done. S
 - E4. Hattori confirmed: Harvard Oriental Series 47, Harvard University Press, 1968.
 - E5. Confirmed and kept (cited): Garfield 1995 (title corrected), Robinson 1967, Sprung 1979, Siderits and Katsura 2013 (added; cited in Ch. 13), Kosmann-Schwarzbach 2011, Lakoff and Johnson 1980, Núñez and Sweetser 2006, Sellars 1956 (Minnesota Studies 1: 253–329), Newton (Cohen and Whitman translation, UC Press 1999; the body paraphrases), Feynman (Addison-Wesley 1963, ch. 4 "Conservation of Energy"), Kobayashi 2022 (title and DOI 10.4259/ibk.70.2_926; page range omitted because sources disagree). Confirmed but removed as uncited (E8): Arnold 2005, Cozort 1998, Gelman 2003, Keil 1989, Spelke 1990, Mascarello 2025, Patrul Rinpoche's *Tsik Sum Né Dek* commentary. Mipham "second edition 2002" removed (not confirmed).
 - E6. Gabyō entry corrected to North Point Press, 1985; Chapter 21 paraphrases and the note says so.
-- E7. **Open (blocked here).** The URLs could not be opened from this session (network policy). One broken URL fixed (www.wikipedia.org/wiki/Svabhava → en.wikipedia.org). The Higgins catalogue link at Wisconsin replaced by the WSTB 78 citation. Each link needs a click-through before publication.
+- E7. Closed (2026-10-22). The author opened every Appendix D link and all resolve. Earlier in this pass one broken URL was fixed (www.wikipedia.org/wiki/Svabhava → en.wikipedia.org) and the Higgins catalogue link at Wisconsin was replaced by the WSTB 78 citation.
 - E8. Uncited entries removed (listed under E2 and E5). The Lam rim chen mo and Lhag mthong chen mo entries merged: the Lhag mthong chen mo is the special-insight section of the Lam rim chen mo (Cutler and Newland, vol. 3).
 
 **F. Part IV**
@@ -122,10 +122,10 @@ Each item in `UNRESOLVED-ISSUES-for-assembly.md` is listed with what was done. S
 
 ## Still open
 
-- E7 (link check): needs a browser with normal network access.
+None.
 
 ## Word and PDF deliverables
 
 - A1. Closed (2026-10-22). Replacements 1 to 6 in `docx-and-pdf-replacements.md` applied by the author to `anatta-to-emptiness-v24-A4.docx` on the author's computer.
 - A2. Closed (2026-10-22). Replacement 7 applied by the author to `substrateless-world-v67-A4.docx` on the author's computer.
-- A3. Closed (2026-10-22). Built from the assembled files with `build-ebook-pdf.py` (85 pages, 34 contents entries, no warnings; house fonts Cormorant Garamond and Source Serif 4 installed locally because the build browser could not reach Google Fonts). Output: `the-observer-and-the-taste-of-presence.pdf`, with `ebook-combined.md` as its source. The Word files are separate books, so A1 and A2 do not change it. Rebuild only if E7 leads to a text change.
+- A3. Closed (2026-10-22). Built from the assembled files with `build-ebook-pdf.py` (85 pages, 34 contents entries, no warnings; house fonts Cormorant Garamond and Source Serif 4 installed locally because the build browser could not reach Google Fonts). Output: `the-observer-and-the-taste-of-presence.pdf`, with `ebook-combined.md` as its source. The Word files are separate books, so A1 and A2 do not change it. No text changed after the build, so the PDF is final.
