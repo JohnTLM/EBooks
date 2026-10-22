@@ -131,7 +131,7 @@ The same structure is at work every time we read. Look at the word on this line 
 
 The non-dividing seeing of the same appearing is not a second reality. It is the same vivid appearing, without the division into parts and the standing-behind. In reference to the seen, there is only the seen; in reference to the heard, only the heard. Analysis shows that the parts searched for in an object are not there, and that the dividing mind is a formation. Non-conceptual seeing shows the same appearing without the division. Neither needs to be forced, and neither is the final truth of what is seen.
 
-This is the point where the two modes meet. They do not point to different results. One approaches the appearing by dismantling the habit of dividing it. The other sees the appearing as it is once the habit is no longer operating. Both are established by emptiness, and emptiness is not a further thing, but what dependent arising amounts to when it is seen.
+This is the point where the two modes meet. They do not point to different results. One approaches the appearing by dismantling the habit of dividing it. The other sees the appearing as it is once the habit is no longer operating. Neither is established by emptiness, because emptiness is not a further thing that could establish anything. It is what dependent arising amounts to when it is seen.
 
 *Notes: The duck-rabbit cross-reference is to* Substrateless World *§10.4 (Seeing-As), confirmed. The reading passage is manuscript insert 3b. The Dharmakīrti definition of direct perception is confirmed against the Nyāyabindu (see the verification log).*
 
