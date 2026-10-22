@@ -6,7 +6,67 @@
 
 # Part II: The Logics and the Substrates
 
-## Chapter 3: Two Logics
+## Chapter 3: Ignorance and Its Habit
+
+A reader finishes Part I and agrees with every line. The witness was not found, vividness did not need a viewer, and the argument holds. The next morning someone says something unkind, and within a second there is a someone who was hurt, a someone who now plans a reply. The reader notices this, and the noticing is itself something that appears in the same way. Nothing in the earlier argument was false. It simply did not reach the place where the habit works.
+
+That gap is the subject of this chapter.
+
+### Not knowing, and not seeing
+
+Buddhist traditions name the root of suffering ignorance, *avidyā*. The word is easy to misread as a lack of information. A person who has never been told how the planets move is ignorant in that sense, and the remedy is to tell them. The ignorance meant here is different. It is a misrecognition of what is already present. In Dzogchen the term is *ma rigpa*, non-recognition: the nature of appearing is there, and it goes unrecognised. The remedy is not a fact to learn but a seeing that was overlooked. *Ma rigpa* is not a translation of *avidyā*. The two name the same root, the first from the side of what is not recognised and the second from the side of what is not known, and the overlap should not be taken for identity.
+
+This distinction runs through the rest of the book. If ignorance were a missing belief, a good argument could fill it. If ignorance is a habit of not seeing, then argument can only reach a belief about the habit, and the habit carries on working.
+
+### The pattern runs before reasoning
+
+The sequence in an ordinary moment is quick, and it is hard to catch because it does not feel like a sequence. Something contacts the senses or the mind. The contact is at once arranged into a seer, a seeing and a seen. A feeling follows: pleasure or pain, attraction or pulling away, a faint tightening or a sense of ease. Then reasoning begins, and it takes the arrangement as the fact it has to deal with. By the time a thought forms, the frame is already in place, and the thought defends it.
+
+Reasoning is not the source. It arrives late and borrows the frame's grammar. This is why people who can argue skilfully against a self can still be wounded by a slight. The argument happened in one place and the wound in another, and the habit that moves between them was never touched.
+
+### Why insight does not dislodge it
+
+Here the book has to be honest about itself. Anatta insight can come as a real breakthrough. A reader can see that the one who hears is not found, and feel the relief of it. But very soon the insight starts to be used. "There is no self" becomes something to understand, to hold and to defend, and the one who understands it is the seer again, now standing with a new view. The habit does not object to the new view. It absorbs it.
+
+Analysis works the same way. A reader who examines the self with reasoning is using the same frame to do it. The question "who is looking?" presumes a looker. Each new analysis builds a fresh subject-object relation around whatever it examines, and then treats the result as neutral. The framework does not merely survive the argument. It produces the argument.
+
+This is what the tradition means when it says ignorance is not dissolved by knowledge. Knowledge about ignorance is one more thing known, and the one who knows it is one more seer.
+
+### Why logic is needed after all
+
+If insight is not enough and the habit absorbs reasoning, why go on to logic at all? Because the habit is most persuasive when nothing challenges it. An argument that shows how the frame is assumed, rather than found, gives the seeing something to rest on when the feelings are strong. The logics in the next chapter do not replace the seeing. They help keep it steady while the habit tries to take it back.
+
+That is also why the logics have to be shown using the same words as the habit, while beginning from somewhere else. Chapter 4 takes that up.
+
+### The felt side of the habit
+
+The structuring is not only conceptual. Consider what goes with the sense that someone has been hurt. The chest may tighten. Breath shortens. Attention narrows to a point and draws in. The world feels further off, and the self feels more solid and more in need of protection or repair. When the frame loosens, the same body may soften, the breath lengthen, the attention open.
+
+The chapter offers a claim about experience for inspection: the seer-seen split is felt as contraction, and contraction is felt as a self. Readers can test this in their own experience without accepting it first. In a moment of irritation or loss, notice whether the sense of being wronged arrives with a particular tightening, and whether that tightening eases when the sense of someone being wronged is not taken as a fact. This is an introspective observation, not a controlled finding, and it should be tested before it is believed.
+
+### What the habit is made of
+
+The habit rests on at least four supports, and each can be looked at directly.
+
+**Grammar.** Language gives the subject-predicate form, which places a stable doer behind every act. The section "Do we actually think substantially?" in Chapter 4, Two Logics, shows how far this reaches. It is not a theory anyone chose, and it is not removed by saying that everything changes.
+
+**Memory.** The self is assembled from remembered episodes, and the remembering is treated as proof that a rememberer exists. But the remembering appears as an event, like the sound of rain, and it can be looked at in the same way.
+
+**Naming.** A name is attached to a stream of experience and then given the job of standing for a continuing holder. The name is useful. It is a designation, not a holder.
+
+**The need for a ground.** This may be the deepest support. Uncertainty feels like falling, and so a floor is looked for beneath experience. That wish is what the later chapters trace through the substrates. It is also what makes the habit feel like a necessity rather than a choice.
+
+### Seeing the pattern, not fighting it
+
+The practical conclusion is that the first step is to see the pattern as a pattern. The aim is not to replace it with a better picture, and it is not to suppress the feelings that arrive with it. A new positive account of "the true nature" beneath the seer would only build a second seer. Madhyamaka's distinction between a negation that installs nothing and one that installs a replacement is the guide here. The pattern is seen as something added, and the adding is noticed without a substitute put in its place.
+
+Seeing the pattern can be brief. A thought of "I" arises, and it is noticed as a thought. A feeling of being wronged arises, and it is noticed as tightness, heat, narrowing. Nothing is done to it. The looking is enough to show that the seer was not standing where the habit said it stood.
+
+*Notes: Added on the website on 2026-10-22 and brought into the manuscript the same day; later chapters renumbered (old 3 to 22 became 4 to 23). The chapter adds an eighth kind of synthesis to the Note on Method (the felt contraction); the Note on Method, How to Read and the Part I bridge were updated to match. One word changed from the website text: in the felt-side section, "tested" replaces the website's wording for how the claim is to be examined before it is believed.*
+
+---
+
+## Chapter 4: Two Logics
 
 Watch a candle burn for a minute. The flame leans, steadies, shrinks when the door opens, and recovers. Ask what is happening, and the answer arrives before any thought: the flame is changing. Something is there, and something is happening to it.
 
@@ -22,7 +82,7 @@ The test is not what people say when asked, but what they do when they are not a
 
 *In space.* Asked, few people will say that space is a thing. Yet almost everyone pictures it as one: a vast, empty room in which objects are placed, which would remain if every star were removed. Newton wrote the intuition into physics, holding that absolute space stays always the same, without relation to anything outside it. The picture shapes casual speech: there is room for a sofa, nothing between the stars. What is never met is space apart from distance and reach. The room that would survive the removal of everything is not found. It is assumed.
 
-*In time.* Time is held more tightly still. It is pictured as a river flowing on its own, carrying events whether or not anything happens. Language treats time as a substance in two ways at once. It is a moving thing: the deadline approaches, the years went by. And it is a stuff: we spend it, save it, and run out of it, the pattern Lakoff and Johnson called "time is money". Cultures differ in the shape of the picture, and speakers of Aymara, Núñez and Sweetser found, place the past in front and the future behind. But the substance remains: a time that is somewhere, apart from the events placed in it. The general anaesthetic of Chapter 9 is the plain counter-evidence. Three hours pass on the clock and none in experience. No river was found that flowed by itself.
+*In time.* Time is held more tightly still. It is pictured as a river flowing on its own, carrying events whether or not anything happens. Language treats time as a substance in two ways at once. It is a moving thing: the deadline approaches, the years went by. And it is a stuff: we spend it, save it, and run out of it, the pattern Lakoff and Johnson called "time is money". Cultures differ in the shape of the picture, and speakers of Aymara, Núñez and Sweetser found, place the past in front and the future behind. But the substance remains: a time that is somewhere, apart from the events placed in it. The general anaesthetic of Chapter 10 is the plain counter-evidence. Three hours pass on the clock and none in experience. No river was found that flowed by itself.
 
 *In grammar.* Every sentence about change has a subject and a predicate. The flame flickers, the market falls, I have changed. The subject is held still so that the predicate can happen to it. This is not a theory anyone chose. It is the shape a thought takes before it becomes a thought. Saying that everything changes does not escape it, since "everything" becomes the subject and is still pictured as the thing doing the changing.
 
@@ -42,7 +102,7 @@ This is the difference between the Middle Way and its imitations. A view that cl
 
 ---
 
-## Chapter 4: The Given
+## Chapter 5: The Given
 
 If there is no observer standing behind experience, the next question is whether appearance rests on something beneath it: some undesignated layer that is simply there, which concepts then describe. Philosophers have called this the Given. The idea has a long history in the West and an older, more rigorous one in Buddhist epistemology.
 
@@ -80,7 +140,7 @@ When the particular is not found, the two-storey building has no ground floor. P
 
 ---
 
-## Chapter 5: Conceptual All the Way Down?
+## Chapter 6: Conceptual All the Way Down?
 
 If there is no Given, the opposite conclusion beckons. Perhaps experience is concept through and through, and the world is simply what our concepts make of it.
 
@@ -107,7 +167,7 @@ So the answer to the objection is neither "conceptual all the way down" nor "non
 
 ---
 
-## Chapter 6: Energy
+## Chapter 7: Energy
 
 A reader trained in physics may feel that a carrier has been found after all. Energy is conserved. It changes form, chemical into heat, heat into motion, mass into light, while the total stays the same. Surely energy is the something that persists through every change: the modern successor to substance.
 
@@ -121,7 +181,7 @@ From the side of this book, "where did the energy come from, and where did it go
 
 ---
 
-## Chapter 7: Potentiality and Plasticity
+## Chapter 8: Potentiality and Plasticity
 
 A subtler candidate remains. If nothing is fixed from its own side, appearances seem endlessly malleable. The same dress is seen as white and gold or as blue and black. The same lines are seen as a duck or a rabbit. The same electron appears as a particle or a wave depending on how it is asked. Surely, then, there is a store of potentialities from which these appearances are drawn: Aristotle's potency, Heisenberg's potentia, the abstract space of possibilities that quantum theory describes. Appearances would be the actualisations, and the potentialities what is really there.
 
@@ -137,7 +197,7 @@ The Dzogchen word *ma 'gags pa*, unobstructed, fits better than "potential". Not
 
 ---
 
-## Chapter 8: Continuity Without a Carrier
+## Chapter 9: Continuity Without a Carrier
 
 If there is no carrier, what makes a life one life, a habit one habit, a river one river? The logic of substance has only one answer: something persists. A soul, a stream of consciousness, a neural core, or the energy that is conserved: each is proposed as what carries continuity through time. Remove it, the substantialist expects, and what is left is a series of disconnected flashes, each moment sealed off from the next.
 
@@ -147,11 +207,11 @@ A melody known by heart shows how this works. Each playing is new, and none is t
 
 Two consequences follow. The first is that nothing is lost. Memory, responsibility, learning and the karmic continuity the tradition describes are all preserved, as designations that hold. The second is that nothing is fixed. A continuity not carried by an essence can bend. A habit can loosen, a character can soften, a grievance can end, because there was never anything underneath that had to stay the same. Continuity without a carrier is more reliable than the nihilist expects, and more open than the substantialist can allow.
 
-*Notes: The lamp image is drawn from the Milindapañha. The melody and the carrier argument are from "The logic of dependency"; the death material from "Death and continuity" is in Chapter 9, which follows.*
+*Notes: The lamp image is drawn from the Milindapañha. The melody and the carrier argument are from "The logic of dependency"; the death material from "Death and continuity" is in Chapter 10, which follows.*
 
 ---
 
-## Chapter 9: The Candle and the Weight of Watching
+## Chapter 10: The Candle and the Weight of Watching
 
 Under general anaesthesia three hours pass on the clock, and none in experience. No river of time flowed by itself, carrying an unconscious passenger. On waking, the familiar self is put together again: fully functional, and nowhere to be found as a standing spectator. The continuity was not a thing that persisted through the sleep. It was designated, on waking, across the gap in experience.
 

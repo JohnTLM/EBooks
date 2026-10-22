@@ -1,12 +1,12 @@
 # The Observer and the Taste of Presence
 
-*Assembled draft, step 3 of 6: Part III. Steps 1 and 2 hold the front matter, Part I and Part II. Terminology aligned to the canonical view: "seeing" is used for the difference between svabhāva and dependent origination; "stance" is no longer used. Chapter 12 corrected against the source for Tsongkhapa's criteria (2026-10-22). Open notes closed against the verification log (2026-10-22).*
+*Assembled draft, step 3 of 6: Part III. Steps 1 and 2 hold the front matter, Part I and Part II. Terminology aligned to the canonical view: "seeing" is used for the difference between svabhāva and dependent origination; "stance" is no longer used. Chapter 13 corrected against the source for Tsongkhapa's criteria (2026-10-22). Open notes closed against the verification log (2026-10-22).*
 
 ---
 
 # Part III: Two Modes and the Middle Way
 
-## Chapter 10: Change Without a Changer
+## Chapter 11: Change Without a Changer
 
 The logic of substance pictures change as a noun with verbs happening to it. There is a flame, and the flame flickers. There is a person, and the person ages. There is water, and the water freezes. The noun is the stable carrier. The verbs are what befall it. The question "what really changed?" looks for the carrier underneath.
 
@@ -24,7 +24,7 @@ The test is available at once. The next time the picture of something changing a
 
 ---
 
-## Chapter 11: The Eight Extremes
+## Chapter 12: The Eight Extremes
 
 Nāgārjuna's homage names eight extremes in four pairs: arising and ceasing, permanence and annihilation, coming and going, identity and difference. Under the logic of substance these are simply the questions one asks about anything. When did it start? When will it end? Does it last, or is it destroyed? Where did it come from, and where did it go? Is it the same as that, or different?
 
@@ -51,7 +51,7 @@ This turns ordinary experience upside down without removing any of it. Switch of
 
 ---
 
-## Chapter 12: Identity, Convention and the Criteria of Truth
+## Chapter 13: Identity, Convention and the Criteria of Truth
 
 Under the logic of substance, "what is it?" and "is it the same?" have answers hidden in the thing itself. A thing is what its essence makes it, and it remains the same thing as long as the essence remains. The questions may be hard, but they are factual. Somewhere in the thing, the answer is waiting to be found.
 
@@ -73,7 +73,7 @@ There is no second, deeper truth for convention to fall short of. Ultimate truth
 
 ---
 
-## Chapter 13: Analysis and the Dividing Mind
+## Chapter 14: Analysis and the Dividing Mind
 
 Cognition divides. It takes a whole, separates it into parts, names the parts, and asks which part carries the identity of the whole. A cup becomes a handle, a rim and a body. Motion becomes a before and an after. This is conceptual construction, the mode of mind that the Buddhist traditions call *vikalpa* or *kalpanā*.
 
@@ -95,7 +95,7 @@ The logic runs in one direction. Whatever arises dependently arises from causes 
 
 ---
 
-## Chapter 14: Reification and Svabhāva as a Way of Seeing
+## Chapter 15: Reification and Svabhāva as a Way of Seeing
 
 Where does a ground come from? Not from the appearances themselves, which are many, particular and relational. It comes from a two-step operation.
 
@@ -113,11 +113,11 @@ This is why the taste of presence cannot be described as a foundation the analys
 
 It also explains why the habit is hard to see. The mind has learned, through language, perception and emotion, to treat each vivid appearance as a thing with a fixed character. The habit is so reliable that the designation disappears into what is designated. The inherent framework is not argued for. It is assumed each time the appearance is met. Repeated looking loosens the assumption. Each time the formation is watched, the framework is seen to be added, not found. What was taken as a fact about the world is recognised as a way of seeing it, one that works without needing to be true from its own side.
 
-*Notes: The apoha reference is to Dharmakīrti, whose sections are treated in Chapter 4. The Madhyamaka reading of svabhāva as a way of seeing is the book's synthesis and carries the same status note as the rest of the synthesis material.*
+*Notes: The apoha reference is to Dharmakīrti, whose sections are treated in Chapter 5. The Madhyamaka reading of svabhāva as a way of seeing is the book's synthesis and carries the same status note as the rest of the synthesis material.*
 
 ---
 
-## Chapter 15: Non-Dividing Seeing
+## Chapter 16: Non-Dividing Seeing
 
 Analysis answers the dividing habit. It works when there is a habit to reify, and it reaches its end when there is nothing left to examine. The question of this chapter is what remains then.
 

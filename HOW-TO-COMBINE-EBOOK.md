@@ -5,9 +5,9 @@ The ebook is written in five Markdown files. Combine them in the order below to 
 ## The files, in order
 
 1. `ebook-assembled-1-front-matter-and-part-I.md`: front matter (Preface, Note on Method, How to Read This Book), then Part I
-2. `ebook-assembled-2-part-II.md`: Part II (Chapters 3 to 9)
-3. `ebook-assembled-3-part-III.md`: Part III (Chapters 10 to 15)
-4. `ebook-assembled-4-part-IV.md`: Part IV (Chapters 16 to 22)
+2. `ebook-assembled-2-part-II.md`: Part II (Chapters 3 to 10)
+3. `ebook-assembled-3-part-III.md`: Part III (Chapters 11 to 16)
+4. `ebook-assembled-4-part-IV.md`: Part IV (Chapters 17 to 23)
 5. `ebook-assembled-5-appendices.md`: Appendices A to D
 
 Each file already has its own title line and a short status line at the top. You can keep them or delete them when combining. Keep the one title at the very top of the combined file.
@@ -73,7 +73,7 @@ python build-ebook-pdf.py
 ```
 
 3. It writes `the-observer-and-the-taste-of-presence.pdf`, replacing the previous one. It also writes `ebook-print.html`, a preview of the same layout that opens in a browser.
-4. The script should print `Wrote the-observer-and-the-taste-of-presence.pdf: N pages, 34 contents entries.` and no warnings. If it warns that a page was not found, a heading has changed form. Check that headings follow the patterns below.
+4. The script should print `Wrote the-observer-and-the-taste-of-presence.pdf: N pages, 35 contents entries.` and no warnings. If it warns that a page was not found, a heading has changed form. Check that headings follow the patterns below.
 
 The fonts (Cormorant Garamond and Source Serif 4, the same as the website) load from Google Fonts, so build while online. Offline, the PDF falls back to Georgia.
 

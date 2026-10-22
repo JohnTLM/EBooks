@@ -120,6 +120,16 @@ Each item in `UNRESOLVED-ISSUES-for-assembly.md` is listed with what was done. S
 - Locke, named in Ch. 4, added to Appendix D: *An Essay Concerning Human Understanding*, II.viii, ed. Nidditch (Clarendon Press, 1975), the standard edition cited in the secondary literature. Appendix D now has 40 entries.
 - Note on Method and Part IV: wording that read as instructions to the author ("should be presented as one", "should be described as") and uses of "check" rephrased.
 
+## 23-chapter edition (2026-10-22, later the same day)
+
+The website had a new Chapter 3, "Ignorance and Its Habit", added in another session after this manuscript was assembled. The author confirmed that the book has 23 chapters.
+
+- Chapter 3 brought into Part II from the website text. One word changed ("tested", replacing the website's wording for how the felt-contraction claim is to be examined).
+- Chapters 3 to 22 renumbered 4 to 23, with every "Chapter N" cross-reference in the text, notes and appendices (54 references), and the chapter column of Appendix A. Entries above in this log use the 22-chapter numbering of the time.
+- Brought in from the website with the new chapter: the eighth kind of synthesis in the Note on Method (the felt contraction, in Chapter 3), the How to Read sentence on Part II, and the Part I bridge.
+- Not brought in from the website: its other Book 4 text, which was the 2026-10-21 draft from before the verification pass. Examples are the deleted Tsongkhapa accusation-and-praise passage and the unconfirmed *Substrateless World* chapter numbers.
+- Draft labels removed (author's decision): the PDF's edition line now reads "October 2026." The PDF was rebuilt with 89 pages and 35 contents entries.
+
 ## Still open
 
 None.
