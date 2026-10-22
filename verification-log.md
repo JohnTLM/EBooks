@@ -130,6 +130,12 @@ The website had a new Chapter 3, "Ignorance and Its Habit", added in another ses
 - Not brought in from the website: its other Book 4 text, which was the 2026-10-21 draft from before the verification pass. Examples are the deleted Tsongkhapa accusation-and-praise passage and the unconfirmed *Substrateless World* chapter numbers.
 - Draft labels removed (author's decision): the PDF's edition line now reads "October 2026." The PDF was rebuilt with 89 pages and 35 contents entries.
 
+## Canon stance (2026-10-22, CanonView)
+
+- Note on Method: added the stance paragraph after the paragraph on the traditions not agreeing ("…as a reading that can be defended, not as a settled point."). It states the view as a rangtong reading of the *Mūlamadhyamakakārikā* and, on luminous clarity, Nyingma Dzogchen taking the MMK as its view; luminosity is the knowing clarity of appearing, as empty as everything else, never an ultimate "empty of other". Source: `canon/mind-phenomena-and-luminous-clarity.md` in GitHub `JohnTLM/CanonView`.
+- Appendix B, so the glossary agrees with the stance: Rigpa (the book does not take awareness as a basis), Lhun grub (Higgins's wording not read as an awareness from which luminosity issues), Luminosity (only the "empty luminosity" sense is used).
+- No sources were added or changed. The PDF was rebuilt with `build-ebook-pdf.py`: 90 pages, 35 contents entries, house fonts (Google Fonts blocked in the build so the installed copies were used).
+
 ## Still open
 
 None.

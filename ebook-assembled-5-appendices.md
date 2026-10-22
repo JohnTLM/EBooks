@@ -75,9 +75,9 @@ The chapters of this book draw on the following verses of the *Mūlamadhyamakak�
 
 **Implicative and non-implicative negation.** Non-implicative negation (*prasajya-pratiṣedha*) denies without installing a replacement. Implicative negation (*paryudāsa*) denies and installs a positive ground in its place.
 
-**Lhun grub.** Spontaneous presence. What dependent arising looks like once no producer is sought. Not an uncaused ground. In Higgins's account (via KMaps), spontaneous presence is the form in which the basic openness of awareness surges forth as luminosity.
+**Lhun grub.** Spontaneous presence. What dependent arising looks like once no producer is sought. Not an uncaused ground. In Higgins's account (via KMaps), spontaneous presence is the form in which the basic openness of awareness surges forth as luminosity. The book does not read this as an awareness from which luminosity issues; luminosity is the clarity of appearing itself.
 
-**Luminosity** (*od gsal*). In Dzogchen, a term that is categorised under the clarity aspect of the nature of mind, and related to *lhun grub*. In this book, the knowing clarity of appearance, not a substance behind it. Rangjung Yeshe gives *stong pa'i 'od gsal* as "empty luminosity" and "the luminosity of emptiness." See Clarity.
+**Luminosity** (*od gsal*). In Dzogchen, a term that is categorised under the clarity aspect of the nature of mind, and related to *lhun grub*. In this book, the knowing clarity of appearance, not a substance behind it. Rangjung Yeshe gives *stong pa'i 'od gsal* as "empty luminosity" and "the luminosity of emptiness." The book uses the first sense only: luminosity is empty, and emptiness has no luminosity of its own (see Emptiness). See Clarity.
 
 **Non-arising** (*anutpāda*). No arising found from a thing's own side. This is not the same as no causes.
 
@@ -95,7 +95,7 @@ The chapters of this book draw on the following verses of the *Mūlamadhyamakak�
 
 **Reification.** Taking an abstraction, or an appearance, to exist as a thing in its own right, standing beneath the particulars.
 
-**Rigpa** (*rig pa*). In Dzogchen, the knowledge of the basis, and the pristine awareness that is the basis itself. Its opposite is *ma rigpa*, ignorance, the failure to recognise the basis. Sanskrit *vidyā* ("knowledge"). The book's "knowing clarity" is a gloss on this, not a translation. Ācārya Malcolm Smith translates rigpa as *vidyā*, prefers to leave it untranslated, and holds that rendering it as "awareness" is wrong (quoted in his DharmaWheel posts and the Wisdom Podcast). *Confirmed by Wikipedia's Rigpa article: "knowledge of the ground," opposite ma rigpa.*
+**Rigpa** (*rig pa*). In Dzogchen, the knowledge of the basis, and the pristine awareness that is the basis itself. The book does not take awareness as a basis; see the Note on Method. Its opposite is *ma rigpa*, ignorance, the failure to recognise the basis. Sanskrit *vidyā* ("knowledge"). The book's "knowing clarity" is a gloss on this, not a translation. Ācārya Malcolm Smith translates rigpa as *vidyā*, prefers to leave it untranslated, and holds that rendering it as "awareness" is wrong (quoted in his DharmaWheel posts and the Wisdom Podcast). *Confirmed by Wikipedia's Rigpa article: "knowledge of the ground," opposite ma rigpa.*
 
 **Svalakṣaṇa.** The particular, what characterises itself alone, in Dignāga's and Dharmakīrti's epistemology. Candrakīrti's first chapter answers a view closely resembling Dignāga's (Arnold 2003, "Candrakīrti on Dignāga on Svalakṣaṇas," *JIABS*). See Chapter 5.
 
