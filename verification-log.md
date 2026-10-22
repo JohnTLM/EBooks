@@ -138,6 +138,8 @@ The website had a new Chapter 3, "Ignorance and Its Habit", added in another ses
 
 - Canon alignment of two passages carried over from the bonus articles (same changes as on the site): Chapter 16, "Both are established by emptiness" now reads "Neither is established by emptiness, because emptiness is not a further thing that could establish anything"; Chapter 21, "Once the designation stops…" now says that once the reifying stops, nothing undesignated is uncovered beneath it. PDF rebuilt.
 
+- Canon alignment, hidden-presence wording: Chapter 3, "the nature of appearing is there, and it goes unrecognised" now reads "appearing is taken as fixed, and its unfixed, dependent character goes unrecognised. Nothing hidden is waiting behind it to be found"; Chapter 23, "undo the habit that obscures it" now says freedom is not a hidden state a habit covers over, and practice undoes the habit of fixing, which takes clear knowing. PDF rebuilt.
+
 ## Still open
 
 None.
