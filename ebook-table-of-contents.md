@@ -155,6 +155,6 @@ All four articles flagged as provisional have now been read in full: *Isn't ener
 - Overlaps 1 to 4 are resolved in the assembled text: energy is only in Chapter 6; continuity is split between Chapters 8 and 9; the chariot is told in Chapter 1 and referred to elsewhere; luminosity is defined the same way in Chapter 2, Chapter 9 and the glossary.
 - Overlap 5: the only numbered *Substrateless World* cross-reference left is §10.4 (Seeing-As). Other references name the book without a chapter number.
 - Overlap 6: MMK 1.5, 15.10–11 and 2.18–21 are confirmed (1.5 has no salt-and-water passage). Visuddhimagga XVI.90, Tsongkhapa on accusation and praise, and MN 72 are not cited in the text. The Milindapañha lamp is cited in Chapter 8.
-- Appendix D now has 39 entries; the "eight new entries" count no longer applies.
+- Appendix D now has 40 entries; the "eight new entries" count no longer applies.
 - Chapter titles in this plan are the working titles. The assembled text is authoritative (for example, Chapter 14 is "Reification and Svabhāva as a Way of Seeing" and Chapter 22 is "Recognition, Not Effort").
 - See `verification-log.md`, section "Assembly brief pass", for the item-by-item record.

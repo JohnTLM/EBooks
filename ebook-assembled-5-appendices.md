@@ -168,6 +168,7 @@ The Beginner's Companion is written as a series of rounds. The narrative chapter
 - Dreyfus, Hubert L. "Overcoming the Myth of the Mental: How Philosophers Can Profit from the Phenomenology of Everyday Expertise." *Proceedings and Addresses of the American Philosophical Association* 79, no. 2 (2005): 47–65.
 - Feynman, Richard P., Robert B. Leighton, and Matthew Sands. *The Feynman Lectures on Physics*, vol. 1, chapter 4, "Conservation of Energy." Reading, MA: Addison-Wesley, 1963.
 - Kosmann-Schwarzbach, Yvette. *The Noether Theorems: Invariance and Conservation Laws in the Twentieth Century*. Translated by Bertram E. Schwarzbach. New York: Springer, 2011. Includes the English translation of Noether's paper.
+- Locke, John. *An Essay Concerning Human Understanding* (1690), Book II, chapter 8 (primary and secondary qualities). Edited by Peter H. Nidditch. Oxford: Clarendon Press, 1975.
 - Lakoff, George, and Mark Johnson. *Metaphors We Live By*. Chicago: University of Chicago Press, 1980.
 - McDowell, John. *Mind and World*. Cambridge, MA: Harvard University Press, 1994.
 - McDowell, John. "What Myth?" *Inquiry* 50, no. 4 (2007): 338–351.

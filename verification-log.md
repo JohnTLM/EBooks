@@ -113,9 +113,11 @@ Each item in `UNRESOLVED-ISSUES-for-assembly.md` is listed with what was done. S
 - H1. Overlaps resolved in the assembled text: energy only in Ch. 6; continuity split between Ch. 8 (melody, lamp, carrier) and Ch. 9 (candle, anaesthesia); chariot told in Ch. 1 and referred to elsewhere; luminosity defined the same way in Ch. 2, Ch. 9 and the glossary.
 - H2. The only numbered *Substrateless World* cross-reference left is §10.4 (confirmed).
 - H3. MMK 1.5 (no salt-and-water passage; row kept with note), 15.10–11 and 2.18–21 confirmed. Visuddhimagga XVI.90 is not in the text. Tsongkhapa on accusation and praise is not in the text. MN 72 is not cited ("does not apply" in Ch. 11 is the book's own phrasing). Milindapañha cited in Ch. 8 and listed with the Rhys Davids translation.
-- H4. Appendix D has 39 entries (13 Buddhist sources, 16 secondary sources for the glossary, 10 philosophical and scientific). The "eight new entries" count in the table of contents no longer applies after E1–E8.
+- H4. Appendix D has 40 entries (13 Buddhist sources, 16 secondary sources for the glossary, 11 philosophical and scientific, including Locke). The "eight new entries" count in the table of contents no longer applies after E1–E8.
 
 **Also corrected in this pass**
+- Note on Method: "the debate between Gorampa and Mipham" was anachronistic. Gorampa (1429–1489) and Mipham (1846–1912) never debated; Mipham drew on Gorampa's work (Wikipedia, "Gorampa"; Stanford Encyclopedia of Philosophy, "Gorampa"). Reworded as a contrast between their readings, with dates.
+- Locke, named in Ch. 4, added to Appendix D: *An Essay Concerning Human Understanding*, II.viii, ed. Nidditch (Clarendon Press, 1975), the standard edition cited in the secondary literature. Appendix D now has 40 entries.
 - Note on Method and Part IV: wording that read as instructions to the author ("should be presented as one", "should be described as") and uses of "check" rephrased.
 
 ## Still open

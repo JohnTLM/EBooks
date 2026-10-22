@@ -76,7 +76,7 @@ Dharmakīrti's deepest reason for that floor was efficacy. *Substrateless World*
 
 When the particular is not found, the two-storey building has no ground floor. Perception is not a lower layer, and concept is not a top coat. Vividness and designation are mingled through and through.
 
-*Notes: Candrakīrti's first chapter engages an unnamed interlocutor whose thought closely resembles Dignāga's; the text does not name Dignāga as the target (JIABS study, "Candrakīrti on Dignāga on Svalakṣaṇas"; see the verification log). Whether Candrakīrti knew Dharmakīrti's works is disputed, so the text does not say he refuted Dharmakīrti. Dates are approximate. The* Substrateless World *cross-reference is to the book.*
+*Notes: Locke's primary and secondary qualities are from the Essay Concerning Human Understanding, Book II, chapter 8 (Appendix D). Candrakīrti's first chapter engages an unnamed interlocutor whose thought closely resembles Dignāga's; the text does not name Dignāga as the target (JIABS study, "Candrakīrti on Dignāga on Svalakṣaṇas"; see the verification log). Whether Candrakīrti knew Dharmakīrti's works is disputed, so the text does not say he refuted Dharmakīrti. Dates are approximate. The* Substrateless World *cross-reference is to the book.*
 
 ---
 
