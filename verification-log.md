@@ -136,6 +136,8 @@ The website had a new Chapter 3, "Ignorance and Its Habit", added in another ses
 - Appendix B, so the glossary agrees with the stance: Rigpa (the book does not take awareness as a basis), Lhun grub (Higgins's wording not read as an awareness from which luminosity issues), Luminosity (only the "empty luminosity" sense is used).
 - No sources were added or changed. The PDF was rebuilt with `build-ebook-pdf.py`: 90 pages, 35 contents entries, house fonts (Google Fonts blocked in the build so the installed copies were used).
 
+- Canon alignment of two passages carried over from the bonus articles (same changes as on the site): Chapter 16, "Both are established by emptiness" now reads "Neither is established by emptiness, because emptiness is not a further thing that could establish anything"; Chapter 21, "Once the designation stops…" now says that once the reifying stops, nothing undesignated is uncovered beneath it. PDF rebuilt.
+
 ## Still open
 
 None.
