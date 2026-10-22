@@ -20,7 +20,7 @@ What remains is change met without a thing that changes. The candle still burns 
 
 The test is available at once. The next time the picture of something changing arises, look for the something. Not in theory, but in what is in front of you: the sound that is fading, the thought that is passing, the flame that is leaning. Look for what is changing, apart from the changing. The picture insists it must be there. The looking finds more change, vivid and exact, and no changer behind it.
 
-*Notes: The walker-and-walking argument is MMK chapter 2, Going and Coming.*
+*Notes: The walker-and-walking argument is MMK chapter 2, Going and Coming, verses 2.18–21 (Appendix A).*
 
 ---
 
@@ -129,7 +129,7 @@ The duck-rabbit makes the point. The drawing can be seen as a duck or as a rabbi
 
 The same structure is at work every time we read. Look at the word on this line and try to see it only as marks. A literate reader cannot. The meaning is not decoded after the shapes have been seen. Seeing the shapes is reading them. A trained musician hears a cadence resolve, not a sequence of pitches she must then interpret. Give the same reader a page in an unfamiliar script, and the meaning falls away. What remains is not a bare layer beneath reading. It is seen as writing of some kind, not as cracks in the paper. One seeing-as is replaced by another. Remove the designation and a different designation is found, never an undesignated floor.
 
-The non-dividing seeing of the same appearing is not a second reality. It is the same vivid appearing, without the division into parts and the standing-behind. In the seen there is only the seen, and in the heard only the heard. Analysis shows that the parts searched for in an object are not there, and that the dividing mind is a formation. Non-conceptual seeing shows the same appearing without the division. Neither needs to be forced, and neither is the final truth of what is seen.
+The non-dividing seeing of the same appearing is not a second reality. It is the same vivid appearing, without the division into parts and the standing-behind. In reference to the seen, there is only the seen; in reference to the heard, only the heard. Analysis shows that the parts searched for in an object are not there, and that the dividing mind is a formation. Non-conceptual seeing shows the same appearing without the division. Neither needs to be forced, and neither is the final truth of what is seen.
 
 This is the point where the two modes meet. They do not point to different results. One approaches the appearing by dismantling the habit of dividing it. The other sees the appearing as it is once the habit is no longer operating. Both are established by emptiness, and emptiness is not a further thing, but what dependent arising amounts to when it is seen.
 

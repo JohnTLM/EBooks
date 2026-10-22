@@ -1,6 +1,6 @@
 # The Observer and the Taste of Presence
 
-*Assembled draft, step 4 of 6: Part IV. Steps 1 to 3 hold the front matter, Parts I to III. Aligned to claude/nature-canonical-view.md. Verification pass of 2026-10-22 applied: unverified claims about Mipham, Gorampa and Candrakīrti's knife example removed or re-attributed; Longchenpa's self-liberation of thoughts attributed to a named text.*
+*Assembled draft, step 4 of 6: Part IV. Steps 1 to 3 hold the front matter, Parts I to III. Aligned to claude/nature-canonical-view.md. Verification pass of 2026-10-22 applied: unconfirmed claims about Mipham, Gorampa and Candrakīrti's knife example removed or re-attributed; Longchenpa's self-liberation of thoughts attributed to a named text.*
 
 ---
 
@@ -72,15 +72,15 @@ Dzogchen speaks of *rang rig*, self-cognizing awareness. The difficulty is that 
 
 Mipham's *Beacon of Certainty*, in John Whitney Pettit's translation and study, defends Dzogchen in the terms of Madhyamaka logic, and it argues with Gelug positions, including Tsongkhapa's eight points of difficulty. Its treatment of the relation between Dzogchen view and Madhyamaka is one of the main sources for the synthesis this book offers, and it should be read in full before the reader accepts or rejects that synthesis.
 
-Other readings of Longchenpa differ. David Higgins's study of the sems and ye shes distinction reads Longchenpa as rejecting self-reflective awareness, treating self-awareness as a vivid auto-manifestation, a process lacking any reality whatsoever. The chapter presents this reading, the Dharmakīrtian lamp and the Madhyamaka objection as interpretations to be weighed, not as settled positions.
+Other readings of Longchenpa differ. David Higgins's study of the sems and ye shes distinction reads Longchenpa as rejecting self-reflective awareness. The chapter presents this reading, the Dharmakīrtian lamp and the Madhyamaka objection as interpretations to be weighed, not as settled positions.
 
-Longchenpa's own account of the ground is careful. He notes that the ground should be understood as a groundless ground: it seems to be a ground, and is posited as one only from a relative perspective, while in the true nature of reality it is empty of being a ground. Later commentators have argued at length that appearance-emptiness inseparability and the primordial purity and spontaneous presence of Dzogchen are identical in what they refer to. That claim is the commentators' and should be attributed to them.
+Longchenpa's own account of the ground is careful. He does not treat the ground as a foundation: it is called a ground only from a relative perspective, and in the true nature of reality it is empty of being one.
 
-The equivalence is still contested. Some lineages hold that Dzogchen is its own resultant vehicle, not reducible to or guaranteed by Madhyamaka analysis. The claim that the two traditions share a view of appearing and its emptiness is a synthesis, and it should be presented as one. The narrower and more defensible claim is that they agree the substantialist grasp is the problem, and that their methods converge on undoing it.
+Whether the two traditions refer to the same thing is still contested. Some lineages hold that Dzogchen is its own resultant vehicle, not reducible to or guaranteed by Madhyamaka analysis. The claim that the two traditions share a view of appearing and its emptiness is a synthesis, and this book presents it as one. The narrower and more defensible claim is that they agree the substantialist grasp is the problem, and that their methods converge on undoing it.
 
-The two traditions also meet at a shared danger in practice. The Dzogchen teachers distinguish *zhig pa*, suppression, from *rang grol*, self-release. Suppression pushes thoughts down, which can create a stillness that becomes one more fixed state. Self-release lets thoughts dissolve when they are not followed or fixed. Madhyamaka makes the same point from its own side. Candrakīrti accepted śamatha as a conventional means that calms the mind, but he held that the decisive step is analysis, which shows that the parts searched for cannot be found. Stillness forced by effort can become a new object of holding.
+The two traditions also meet at a shared danger in practice. Dzogchen teachers distinguish suppressing thoughts from their self-release (*rang grol*). Suppression pushes thoughts down, which can create a stillness that becomes one more fixed state. Self-release lets thoughts dissolve when they are not followed or fixed. Madhyamaka makes the same point from its own side. Candrakīrti accepted śamatha as a conventional means that calms the mind, but he held that the decisive step is analysis, which shows that the parts searched for cannot be found. Stillness forced by effort can become a new object of holding.
 
-*Notes: The Longchenpa wording follows the Wikipedia summary of his "groundless ground" passage and should be checked against a primary translation. The Candrakīrti attribution rests on the sixth chapter of the Madhyamakāvatāra and its critique of svasaṃvedana, as presented in Anne MacDonald's research; the blade example is the standard counterexample in the Buddhist logicians' debates, and the Prajñākaragupta reply is taken from Kobayashi's 2022 study. The Mipham and Higgins readings should be checked against Pettit's text and Higgins's thesis. The translation of rang grol should be kept consistent with the glossary.*
+*Notes: Longchenpa's account of the ground is summarised, not quoted. The "groundless ground" wording came from the Wikipedia summary ("Ground (Dzogchen)") and could not be confirmed in a primary translation, so the quotation was removed and the attribution kept (2026-10-22). The Candrakīrti attribution rests on the sixth chapter of the Madhyamakāvatāra and its critique of svasaṃvedana, as presented in Anne MacDonald's 2022 lecture; the blade example is the standard counterexample in these debates, and the Prajñākaragupta reply is taken from Kobayashi (2022). Mipham's Beacon is described as Pettit (1999) presents it. Higgins's reading is given in summary only; a descriptive phrase that came from a secondary blog summary was removed. The unnamed "later commentators" claim and the unconfirmed Tibetan term zhig pa were removed. Rang grol is translated "self-release", as in the glossary.*
 
 ---
 
@@ -88,17 +88,17 @@ The two traditions also meet at a shared danger in practice. The Dzogchen teache
 
 If every act of knowing carries a structure of subject facing object, with a ground behind the appearing, then every taste of presence is already filtered through a gap. Any act of knowing carries the structure with it, so the direct taste cannot be reached by adding one more act on top of the rest.
 
-The tradition's answer is not that a bridge is built across the gap. It is that the gap was never holding anything up. When the standing-behind is seen through, there is no longer a witness positioned apart from what appears, and no ground that appearances must be checked against. What remains is the immediacy of appearing itself.
+The tradition's answer is not that a bridge is built across the gap. It is that the gap was never holding anything up. When the standing-behind is seen through, there is no longer a witness positioned apart from what appears, and no ground that appearances must be measured against. What remains is the immediacy of appearing itself.
 
 This is why the experience can be vivid and direct. Vividness here is not intensity added to ordinary perception. It is the absence of the mediation that normally makes perception feel distant. The emptiness that applies to the dull applies equally to the vivid. The immediacy is not a quality that makes appearances more real. It is a quality of how they are not being held at a distance.
 
-Longchenpa's account of the self-liberation (*rang grol*) of thoughts, in *The Natural Freedom of the Nature of Mind*, describes this from the side of thinking. Thoughts arise and are not followed, and in not being followed they do not become a wall.
+Longchenpa's *The Natural Freedom of the Nature of Mind* takes self-release (*rang grol*) as its theme. Seen from the side of thinking, thoughts arise and are not followed, and in not being followed they do not become a wall.
 
 The question that follows is whether this is an achievement or a stopping. If the gap is a construction, its absence is a stopping rather than an accomplishment, and the taste is available wherever the construction is not running. If the gap were inherent, the taste would be impossible, and practice would only demonstrate the gap. Madhyamaka and Dzogchen both take the first view. That means the book owes an account of why the construction persists so readily, and of what in practice loosens it.
 
-A caution belongs here. "No gap, no ground" can become a new ground: a confident description of non-duality that the reader is invited to possess. The immediacy should be described as something that appears when the standing-behind is not being maintained, not as a state the reader can now be sure of.
+A caution belongs here. "No gap, no ground" can become a new ground: a confident description of non-duality that the reader is invited to possess. The immediacy is better described as something that appears when the standing-behind is not being maintained, not as a state the reader can now be sure of.
 
-*Notes: The attribution to Longchenpa's self-liberation of thoughts follows the title and treatment of* The Natural Freedom of the Nature of Mind *(translated by Tulku Thondup and by Herbert Guenther). The passage should be checked against one of those translations before publication.*
+*Notes:* The Natural Freedom of the Nature of Mind *(Sems nyid rang grol) is cited for its theme only. Translations: Herbert V. Guenther, "The Natural Freedom of Mind," Crystal Mirror IV (1975); Tulku Thondup, "Naturally Liberated Mind, the Great Perfection," in The Practice of Dzogchen (1989). No passage on thoughts could be confirmed in either translation, so the description of thoughts not being followed is the book's own, not attributed to Longchenpa (2026-10-22).*
 
 ---
 
@@ -114,7 +114,7 @@ The same unfixed appearing can be met in two ways. Open seeing is what appears w
 
 The taste is also not a denial of the world. The seen is still seen, the heard still heard. Nothing has been removed from experience. What has been removed is the addition of a viewer and a ground, and with them the sense that experience is happening to someone from somewhere.
 
-*Notes: The Bahiya passage is Udāna 1.10 in Ṭhānissaro Bhikkhu's translation on SuttaCentral. Check the translation the book uses throughout; the body text should follow it. The phrase "in the seen, only the seen" should appear in the same form in the Preface and the Glossary, or be replaced by the translation's wording.*
+*Notes: The Bahiya passage is Udāna 1.10 in Ṭhānissaro Bhikkhu's translation (Access to Insight and dhammatalks.org; it is not the SuttaCentral translation). Chapter 2 quotes the same wording, and Chapter 15 echoes it. The Preface and the Glossary do not quote the passage.*
 
 ---
 
@@ -145,7 +145,7 @@ But the lesson is not that awakening lies on the far side of all painting, in so
 
 The point is not to arrive at a feeling of emptiness while chewing. It is to notice that the meal is exactly as satisfying as before. Painted food, painted hunger, painted satisfaction, and nothing missing.
 
-*Notes: The Xiangyan story is confirmed in several Chan accounts: he burned his writings, and his awakening came when a pebble struck bamboo while he was sweeping. Versions differ in detail, so the text keeps it general. Dōgen's Gabyō is cited from Tanahashi and Welch's translation in Moon in a Dewdrop (New York: Farrar, Straus and Giroux, 1995). The body paraphrases the fascicle and does not quote it; any quotation should be checked against that edition. The line "Buddhas, too, are paintings" is a paraphrase of a theme in Gabyō and is not quoted. This chapter draws on manuscript insert 5 and should be checked against it.*
+*Notes: The Xiangyan story is confirmed in several Chan accounts: he burned his writings, and his awakening came when a pebble struck bamboo while he was sweeping. Versions differ in detail, so the text keeps it general. Dōgen's Gabyō is cited from Tanahashi and Welch's translation, "Painting of a Rice Cake," in Moon in a Dewdrop (San Francisco: North Point Press, 1985). The body paraphrases the fascicle ("in effect he says") and does not quote it. This chapter supersedes manuscript insert 5.*
 
 ---
 

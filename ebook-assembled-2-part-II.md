@@ -1,6 +1,6 @@
 # The Observer and the Taste of Presence
 
-*Assembled draft, step 2 of 6: Part II. Step 1 holds the front matter and Part I. Verification pass of 2026-10-22 applied: unverified chapter numbers removed; Candrakīrti's target described as an interlocutor resembling Dignāga; the unsourced object-of-negation example deleted; unverified bibliographic details removed; Genjōkōan passage sourced.*
+*Assembled draft, step 2 of 6: Part II. Step 1 holds the front matter and Part I. Verification pass of 2026-10-22 applied: unconfirmed chapter numbers removed; Candrakīrti's target described as an interlocutor resembling Dignāga; the unsourced object-of-negation example deleted; unconfirmed bibliographic details removed; Genjōkōan passage sourced.*
 
 ---
 
@@ -103,7 +103,7 @@ The ordinary distinction survives. Seeing a snake is not remembering one, and a 
 
 So the answer to the objection is neither "conceptual all the way down" nor "non-conceptual at the bottom". There is no down.
 
-*Notes: McDowell, Mind and World (1994). Dreyfus's article and McDowell's reply are cited by title in the body only; their full bibliographic details were removed in the 2026-10-22 pass because they could not be confirmed. Keep Hubert Dreyfus and Georges Dreyfus distinct in the index.*
+*Notes: McDowell, Mind and World (1994). Dreyfus's objection is "Overcoming the Myth of the Mental" (APA Proceedings and Addresses 79, no. 2, 2005) and McDowell's reply is "What Myth?" (Inquiry 50, no. 4, 2007); both are confirmed and listed in Appendix D. Keep Hubert Dreyfus and Georges Dreyfus distinct in the index.*
 
 ---
 

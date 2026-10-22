@@ -1,47 +1,43 @@
 # The Observer and the Taste of Presence
 
-*Assembled draft, step 5 of 6: appendices. Steps 1 to 4 hold the front matter and Parts I to IV. Verification pass of 2026-10-22 applied: unverified entries removed; confirmed entries cited with their sources.*
+*Assembled draft, step 5 of 6: appendices. Steps 1 to 4 hold the front matter and Parts I to IV. Verification pass of 2026-10-22 applied: unconfirmed entries removed; confirmed entries cited with their sources. Assembly brief items B, C and E closed (2026-10-22): verse index numbering and chapter mapping corrected; glossary aligned with Part IV; references confirmed or removed, uncited entries removed.*
 
 ---
 
 # Appendices
 
-*Appendix A is an index to the verse text, not a reprint; the full translation stays in the Nāgārjuna volume, which carries the Sanskrit under a CC BY-NC-SA licence. Appendix B collects terms used across Parts I to IV, including the terms specific to this book's reading of nature, with the standard usage stated where the sources differ. Appendix C is a path outline and needs the Beginner's Companion rounds checked against it. Appendix D lists references from the manuscript inserts and articles. Items marked "check" need confirmation before publication.*
+*Appendix A is an index to the verse text, not a reprint; the full translation stays in the Nāgārjuna volume, which carries the Sanskrit under a CC BY-NC-SA licence. Appendix B collects terms used across Parts I to IV, including the terms specific to this book's reading of nature, with the standard usage stated where the sources differ. Appendix C is a path outline for the Beginner's Companion. Appendix D lists the references cited in the chapters and the glossary.*
 
 ---
 
 ## Appendix A: The Verse Text, an Index
 
-The chapters of this book draw on the following verses of the *Mūlamadhyamakakārikā*. The full translation, with the Sanskrit, appears in the companion volume. Use this index to find the passage a chapter refers to.
+The chapters of this book draw on the following verses of the *Mūlamadhyamakakārikā*. The full translation, with the Sanskrit, appears in the companion volume. Use this index to find the passage a chapter refers to. Verse numbers follow Garfield (1995) and Siderits and Katsura (2013), which number the first verse of chapter 1 after the homage as 1.1. Editions that count the dedicatory verses number chapter 1 two verses higher.
 
 | Verse | Subject | Chapter(s) |
 | --- | --- | --- |
-| Homage | Dependent arising without arising or ceasing, without coming or going; the quieting of elaborations as peace | 11, 22 |
-| 1.1 | Refutation of arising from self, other, both, and without cause; non-arising | 4, 11 |
-| 1.5 | Conditions and what arises from them. *No MMK 1.5 salt-and-water passage has been found; the Chapter 7 example is the book's own illustration and should not be attributed to 1.5.* | 7 |
-| 1.6 | The striking match and fire: present without being produced | 11 |
+| Homage | Dependent arising without arising or ceasing, without coming or going; the quieting of elaborations as peace | 11 |
+| 1.1 | Refutation of arising from self, other, both, and without cause; non-arising | 11, 16 |
+| 1.5 | Conditions and what arises from them. No MMK 1.5 salt-and-water passage has been found; the Chapter 7 example is the book's own illustration. | 7 |
 | 2 | Motion; walker and walking designated together | 10 |
-| 2.18–20 | Walker and walking; changer and change (check numbering) | 10 (check) |
+| 2.18–21 | The goer is neither identical with nor different from the going; changer and change | 10 |
 | 3 | Seeing, seer and seen; no seeing by its own nature; the chain of dependence | 1, 15 |
 | 5 | Space and its characteristic; the analysis of characterised and characteriser | 4 |
-| 7 | Conditioned and unconditioned; analysis of the three times | 9, 11 |
+| 7 | The conditioned: arising, abiding and ceasing | 11 |
 | 10.1 | Fire and fuel: neither one nor other | 3 |
 | 13.8 | Those who take emptiness as a view are incurable | 17, 22 |
 | 14 | Seer, seeing and seen; the analysis of contact and otherness | 1, 15 |
 | 15.2 | Own-nature (svabhāva) is defined as non-contingent and not dependent on anything other than itself. | 3, 11 |
-| 15.10–11 | Existence and non-existence of a thing standing on its own; permanence and annihilation (check numbering) | 3, 11 (check) |
+| 15.10–11 | Existence and non-existence of a thing standing on its own; permanence and annihilation | 3, 11 |
 | 18.5 | Proliferation ceases in emptiness | 13 |
 | 18.10 | Neither identical with nor different from what it depends on | 11 |
-| 19 | Time; the anaesthesia and the river of time | 9 |
-| 24.8–10 | Conventional and ultimate truth; neither is a lower stage | 3 |
+| 19 | Time; the anaesthesia and the river of time | 3, 9 |
+| 24.8–10 | Conventional and ultimate truth; neither is a lower stage | 12 |
 | 24.14 | For whom emptiness is possible, everything is possible (the verb yujyate: "fits") | 7 |
 | 24.16–20 | Practice works because nothing is fixed | 22 |
-| 24.18 | Dependent co-arising is emptiness; that, being dependent designation, is the middle way | 13 |
+| 24.18 | Dependent co-arising is emptiness; that, being dependent designation, is the middle way | 13, 16 |
 | 24.19 | There is not one phenomenon that has not arisen dependently, and so none that is not empty | 13, 17 |
-| 25 | Nirvāṇa is not another reality beyond saṃsāra | 19 (check) |
 | 27 | Continuity without persistence; neither identical nor wholly different | 8 |
-
-*Check: the verse numbers in the index were assembled from the chapter notes and the source text, and some are marked for confirmation. The MMK 24.18 and 24.19 wording and the MMK 15.2 definition are confirmed. Verify the remaining entries against the companion volume before the book goes out.*
 
 ---
 
@@ -55,9 +51,9 @@ The chapters of this book draw on the following verses of the *Mūlamadhyamakak�
 
 **Avikalpa.** Non-conceptual awareness: registering what presents without the names, categories and part-whole structure that thought adds.
 
-**Basis** (*gzhi*). In Dzogchen, the primordial state of any sentient being, from which path and fruition are said to unfold; knowledge of it is *rigpa*. Longchenpa calls it a "groundless ground": it seems to be a ground and is posited as one only from a relative perspective, while in the true nature of reality it is empty of being a ground. This book reads the basis as the emptiness of appearing, not as a ground behind appearances. See the Note on Method. *Confirmed against Longchenpa as quoted in the Wikipedia "Ground (Dzogchen)" article.*
+**Basis** (*gzhi*). In Dzogchen, the primordial state of any sentient being, from which path and fruition are said to unfold; knowledge of it is *rigpa*. Longchenpa treats it as a ground only from a relative perspective, empty of being a ground in the true nature of reality. This book reads the basis as the emptiness of appearing, not as a ground behind appearances. See the Note on Method. *Source: the Wikipedia "Ground (Dzogchen)" article, summarising Longchenpa.*
 
-**Clarity** (*gsal ba*). In Dzogchen, one of the three aspects of the basis, together with emptiness (*stong pa nyid*) and compassionate energy (*snying rje*). In this book, the knowing clarity of appearing itself, not a substance behind it. See Luminosity. *The three-aspect scheme is confirmed by Madhyamaka.com and Rangjung Yeshe. The book's own gloss is stated as a gloss.*
+**Clarity** (*gsal ba*). In Dzogchen, the clear nature (*rang bzhin*) of the basis, one of its three aspects together with its empty essence (*ngo bo*) and its unobstructed compassion (*thugs rje*). In this book, the knowing clarity of appearing itself, not a substance behind it. See Luminosity. *Source for the three aspects: Rangjung Yeshe Wiki, "primordial ground" and "ngo bo rang bzhin thugs rje gsum", where Longchenpa's three factors appear as an empty essence, a clear nature and an unobstructed radiance of compassion. The book's own gloss is stated as a gloss.*
 
 **Conditions** (*pratyaya*). What something arises in dependence on. The Abhidharma listed four kinds.
 
@@ -93,24 +89,21 @@ The chapters of this book draw on the following verses of the *Mūlamadhyamakak�
 
 **Rang grol.** Self-release: thought dissolves when it is not followed or fixed. The term is standard in Dzogchen and Mahāmudrā (Wikipedia, "Dzogchen"; Studybuddhism glossary).
 
-**Rang rig.** Self-cognizing awareness. The Dzogchen position on it is debated: Mipham's *Beacon of Certainty* defends Dzogchen in Madhyamaka terms, and Higgins reads Longchenpa as rejecting self-reflective awareness. Chapter 18 presents these readings and the Madhyamaka objection.
+**Rang rig.** Self-cognizing awareness (Sanskrit *svasaṃvitti*). The Dzogchen position on it is debated: Mipham's *Beacon of Certainty* (Pettit 1999) defends Dzogchen in Madhyamaka terms, and Higgins (2013) reads Longchenpa as rejecting self-reflective awareness. Chapter 18 presents these readings and the Madhyamaka objection.
 
-**Recognition** (*ngo shes*; *rang ngo shes* for self-recognition). In Dzogchen, the central term of the path. Knowledge of the basis (*rigpa*) comes from recognising it, and recognition is often identified with awakening: the recognition of the basis is "awakening" in the Dzogchen sources as summarised by Wikipedia. This is a departure from the book's own usage. In the book, recognition is not an achievement in the sense of a state built up by effort; the Dzogchen sources treat it as the decisive accomplishment.
+**Recognition** (*ngo shes*; *rang ngo shes* for self-recognition). In Dzogchen, the central term of the path. Knowledge of the basis (*rigpa*) comes from recognising it, and recognition is often identified with awakening: the recognition of the basis is "awakening" in the Dzogchen sources as summarised by Wikipedia. The book does not dispute that recognition is decisive. Its chapter title, "Recognition, Not Effort" (Chapter 22), means only that recognition is not produced by effort or accumulated as a state. See the Note on Method, fourth departure.
 
 **Reification.** Taking an abstraction, or an appearance, to exist as a thing in its own right, standing beneath the particulars.
 
 **Rigpa** (*rig pa*). In Dzogchen, the knowledge of the basis, and the pristine awareness that is the basis itself. Its opposite is *ma rigpa*, ignorance, the failure to recognise the basis. Sanskrit *vidyā* ("knowledge"). The book's "knowing clarity" is a gloss on this, not a translation. Ācārya Malcolm Smith translates rigpa as *vidyā*, prefers to leave it untranslated, and holds that rendering it as "awareness" is wrong (quoted in his DharmaWheel posts and the Wisdom Podcast). *Confirmed by Wikipedia's Rigpa article: "knowledge of the ground," opposite ma rigpa.*
 
-**Svalakṣaṇa.** The particular, what characterises itself alone, in Dignāga's and Dharmakīrti's epistemology. Candrakīrti's first chapter answers a view closely resembling Dignāga's (see the JIABS study "Candrakīrti on Dignāga on Svalakṣaṇas"). See Chapter 4.
+**Svalakṣaṇa.** The particular, what characterises itself alone, in Dignāga's and Dharmakīrti's epistemology. Candrakīrti's first chapter answers a view closely resembling Dignāga's (Arnold 2003, "Candrakīrti on Dignāga on Svalakṣaṇas," *JIABS*). See Chapter 4.
 
 **Ultimate truth** (*paramārtha-satya*). Not a higher world, but the emptiness of the conventional one.
 
 **Unobstructed** (*ma 'gags pa*). Nothing blocks the display, and there is no store behind it from which the display comes. Not that something lasts for ever.
 
 **Vikalpa.** Conceptual construction: the mode of mind that divides, names and asks which part carries identity.
-
-*Check: the glossary merges entries from the source glossary and the book's articles. Confirm the definitions against the final text, and keep the Dzogchen terms consistent with the usage in Part IV.*
-
 ---
 
 ## Appendix C: The Beginner's Companion, Path Outline
@@ -137,54 +130,48 @@ The Beginner's Companion is written as a series of rounds. The narrative chapter
 
 **Buddhist sources**
 
-- Dharmakīrti. *Nyāyabindu*, with Dharmottara's commentary. Translated by F. Th. Stcherbatsky in *Buddhist Logic*, vol. II. Leningrad: Izdatel'stvo Akademii Nauk SSSR, 1930 (Indo-Iranian Reprints 26); Dover reprint, New York, 1962. The definition of perception as free from conceptual construction is in the Nyāyabindu literature; Dignāga's formula is *pratyakṣaṃ kalpanāpoḍhaṃ*, and Dharmakīrti adds "non-erroneous."
-- Dignāga. *Pramāṇasamuccaya*, chapter 1. Translated by Masaaki Hattori, *Dignāga, On Perception*. Cambridge, MA: Harvard University Press, 1968.
-- Dōgen. "Painting of a Rice Cake" (*Gabyō*). Translated by Kazuaki Tanahashi and Dan Welch. In *Moon in a Dewdrop: Writings of Zen Master Dōgen*, edited by Kazuaki Tanahashi. New York: Farrar, Straus and Giroux, 1995. *The body text paraphrases Gabyō; any quotation should be checked against this edition.*
-- Garfield, Jay L. *Fundamental Wisdom of the Middle Way*. Oxford: Oxford University Press, 1995. (MMK 24.18 translation.)
-- Great Exposition of Special Insight (*Lhag mthong chen mo*). Tsongkhapa. Source of the three criteria for conventional existence.
-- Great Treatise (*Lam rim chen mo*). Tsongkhapa. Not the source of the three criteria (see the *Lhag mthong chen mo* entry above).
-- *Milindapañha*. The lamp image of Nāgasena.
-- Mipham. *Mipham's Beacon of Certainty: Illuminating the View of Dzogchen, the Great Perfection*. Translated and introduced by John Whitney Pettit. Studies in Indian and Tibetan Buddhism. Boston: Wisdom Publications, 1999 (second edition 2002).
-- Ocean of Reasoning (*rigs pa'i rgya mtsho*). Tsongkhapa. A commentary on the MMK, cited in the teachings on the three criteria.
+- Dharmakīrti. *Nyāyabindu*, with Dharmottara's commentary. Translated by F. Th. Stcherbatsky in *Buddhist Logic*, vol. II. Bibliotheca Buddhica 26. Leningrad: Academy of Sciences of the USSR, 1930; Dover reprint, New York, 1962. The definition of perception as free from conceptual construction is in the Nyāyabindu literature; Dignāga's formula is *pratyakṣaṃ kalpanāpoḍhaṃ*, and Dharmakīrti adds "non-erroneous."
+- Dignāga. *Pramāṇasamuccaya*, chapter 1. Translated by Masaaki Hattori, *Dignāga, On Perception, being the Pratyakṣapariccheda of Dignāga's Pramāṇasamuccaya*. Harvard Oriental Series 47. Cambridge, MA: Harvard University Press, 1968.
+- Dōgen. *Genjōkōan*. Translated by Paul Jaffe in Hakuun Yasutani, *Flowers Fall: A Commentary on Zen Master Dōgen's Genjōkōan*. Boston: Shambhala, 1996. The Jaffe wording of the firewood-and-ash passage is as shown on the Terebess Zen Literature page for the Genjōkōan: https://terebess.hu/zen/dogen/KS-Genjo.html.
+- Dōgen. "Painting of a Rice Cake" (*Gabyō*). Translated by Kazuaki Tanahashi and Dan Welch. In *Moon in a Dewdrop: Writings of Zen Master Dōgen*, edited by Kazuaki Tanahashi. San Francisco: North Point Press, 1985. Chapter 21 paraphrases the fascicle and does not quote it.
+- Garfield, Jay L. *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. New York: Oxford University Press, 1995. (MMK 24.18 translation; verse numbering in Appendix A.)
+- Longchenpa. *The Natural Freedom of the Nature of Mind* (*Sems nyid rang grol*). Translated by Herbert V. Guenther as "The Natural Freedom of Mind," *Crystal Mirror* IV (Berkeley: Dharma Publishing, 1975); and by Tulku Thondup as "Naturally Liberated Mind, the Great Perfection," in *The Practice of Dzogchen* (Ithaca: Snow Lion, 1989). Cited in Chapter 19 for its theme.
+- *Milindapañha*. The lamp image of Nāgasena (Book II). Translated by T. W. Rhys Davids, *The Questions of King Milinda*, Part I. Sacred Books of the East 35. Oxford: Clarendon Press, 1890.
+- Mipham. *Mipham's Beacon of Certainty: Illuminating the View of Dzogchen, the Great Perfection*. Translated and introduced by John Whitney Pettit. Studies in Indian and Tibetan Buddhism. Boston: Wisdom Publications, 1999.
 - Robinson, Richard H. *Early Mādhyamika in India and China*. Madison: University of Wisconsin Press, 1967. (MMK 24.18 translation.)
+- Siderits, Mark, and Shōryū Katsura. *Nāgārjuna's Middle Way: Mūlamadhyamakakārikā*. Classics of Indian Buddhism. Boston: Wisdom Publications, 2013. (MMK 24.18 translation; verse numbering in Appendix A.)
 - Sprung, Mervyn, trans., with T. R. V. Murti and U. S. Vyas. *Lucid Exposition of the Middle Way: The Essential Chapters from the Prasannapadā of Candrakīrti*. London and Henley: Routledge & Kegan Paul, 1979. (Also issued by Prajñā Press, Boulder, 1979.) Source of the MMK 24.18 rendering cited in Chapter 13.
-- *Udāna* 1.10. The Bahiya formulation. Translated by Ṭhānissaro Bhikkhu on SuttaCentral. Other translations differ in wording; check the translation used against Chapter 20.
-- Patrul Rinpoche. Commentary on *Tsik Sum Né Dek*. Optional.
+- Tsongkhapa. *Great Treatise on the Stages of the Path* (*Lam rim chen mo*), special-insight section (*Lhag mthong chen mo*, Great Exposition of Special Insight). Translated by the Lamrim Chenmo Translation Committee, *The Great Treatise on the Stages of the Path to Enlightenment*, vol. 3, edited by Joshua W. C. Cutler and Guy Newland. Ithaca: Snow Lion, 2002. Source of the three criteria for conventional existence (Chapter 12).
+- *Udāna* 1.10, the Bahiya sutta. Translated by Ṭhānissaro Bhikkhu. Access to Insight: https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html. Chapters 2 and 20 quote this translation.
 
 **Dzogchen and Madhyamaka secondary sources consulted for the glossary**
 
-- "Ground (Dzogchen)." Wikipedia. https://en.wikipedia.org/wiki/Ground_(Dzogchen). Source for the basis, Longchenpa's "groundless ground," the three aspects of the basis, the description of ka dag, and Namkhai Norbu's "uncreated" description.
-- "Dzogchen." Wikipedia. https://en.wikipedia.org/wiki/Dzogchen. Source for the three aspects of the basis and for self-release (rang grol).
+- "Ground (Dzogchen)." Wikipedia. https://en.wikipedia.org/wiki/Ground_(Dzogchen). Source for the basis, Longchenpa's account of the ground as a ground only from a relative perspective, the description of ka dag, and Namkhai Norbu's "uncreated" description.
+- "Dzogchen." Wikipedia. https://en.wikipedia.org/wiki/Dzogchen. Source for self-release (rang grol).
 - "Rigpa." Wikipedia. https://en.wikipedia.org/wiki/Rigpa. Source for rigpa as knowledge of the ground, the opposite ma rigpa, vidyā, and rig stong.
-- "Svabhava." Wikipedia. https://www.wikipedia.org/wiki/Svabhava. Source for the Tibetan rang bzhin in both senses.
+- "Svabhava." Wikipedia. https://en.wikipedia.org/wiki/Svabhava. Source for the Tibetan rang bzhin in both senses.
+- "Automatic release." Study Buddhism glossary. https://studybuddhism.com/en/glossary/automatic-release. Source for rang grol.
 - "Dharmatā." Tsadra Commons. https://commons.tsadra.org/index.php/Dharmat%C4%81. Source for the standard glosses of chos nyid.
 - "Ka dag." Buddha-Nature Key Terms, Tsadra. https://buddhanature.tsadra.org/index.php/Ka_dag. Source for the gloss of ka dag as the empty nature of phenomena.
 - "Pratītyasamutpāda." Bodhicitta Key Terms, Tsadra. Source for the MMK 24.19 wording.
+- "Primordial ground" and "ngo bo rang bzhin thugs rje gsum." Rangjung Yeshe Wiki. https://rywiki.tsadra.org/index.php/primordial_ground and https://rywiki.tsadra.org/index.php/ngo_bo_rang_bzhin_thugs_rje_gsum. Source for the three aspects of the basis (essence, nature, compassion).
 - "Gsal stong" and "stong pa'i 'od gsal." Rangjung Yeshe Wiki (RYI Dictionary). https://rywiki.tsadra.org/index.php/gsal_stong and https://rywiki.tsadra.org/index.php/stong_pa%27i_%27od_gsal. Sources for the openness and luminosity glosses.
-- Higgins, David. *Lexicon of Tibetan Buddhist Topics and Terminology*, entry ka dag. Via Kmaps, Virginia. https://terms.kmaps.virginia.edu/features/260.
-- Higgins, David. "The Philosophical Foundations of Classical rDzogs chen in Tibet: Investigating the Distinction between Dualistic Mind (sems) and Primordial Knowing (ye shes)." University of Wisconsin-Madison thesis. Catalogue record: https://search.library.wisc.edu/catalog/9910149779702121. Use the thesis, not the blog summaries.
-- Mascarello, Chiara. *Self-Awareness in Tibetan Buddhism: The Philosophical Relevance of Rang rig and Its Contribution to the Contemporary Debates on the Nature of Consciousness*, chapter 6. Edizioni Ca' Foscari. https://edizionicafoscari.it/media/pdf/books/978-88-6969-930-6/978-88-6969-930-6-ch-06.pdf.
-- Malcolm Smith (Ācārya). DharmaWheel posts as quoted in an informal blog; and the Wisdom Podcast interview, *The Dzogchen Aural Lineage* (#205). Use the primary posts and the podcast, not the blog, as the citation.
-- Kobayashi, Hisayasu. "灯火の喩え——プラジュニャーカラグプタの自己認識理論" (The simile of the lamp: Prajñākaragupta's theory of self-awareness). *Indogaku Bukkyogaku Kenkyū* 70(2) (2022). https://www.jstage.jst.go.jp/article/ibk/70/2/70_926/_article/-char/ja.
-- "Candrakīrti on Dignāga on Svalakṣaṇas." *Journal of the International Association of Buddhist Studies*. https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/download/8934/2827.
-- MacDonald, Anne. Lecture on the Madhyamakāvatāra's critique of Yogācāra, 2022. Confirms that Madhyamakāvatāra ch. 6 critiques svasaṃvedana. https://www.kc-tbts.uni-hamburg.de/events/2022-01-12-macdonald.html.
+- Higgins, David. Entries in the *Lexicon of Tibetan Buddhist Topics and Terminology*, Tibetan and Himalayan Library (KMaps, University of Virginia), including ka dag (https://terms.kmaps.virginia.edu/features/260). Source for "Higgins (via KMaps)" in the glossary entries Lhun grub, Openness and Primordial purity.
+- Higgins, David. *The Philosophical Foundations of Classical rDzogs chen in Tibet: Investigating the Distinction between Dualistic Mind (sems) and Primordial Knowing (ye shes)*. Wiener Studien zur Tibetologie und Buddhismuskunde 78. Vienna: Arbeitskreis für Tibetische und Buddhistische Studien, Universität Wien, 2013. Based on the author's doctoral thesis, Université de Lausanne, 2012.
+- Malcolm Smith (Ācārya). DharmaWheel forum posts on the translation of rigpa; and the Wisdom Podcast interview, *The Dzogchen Aural Lineage* (episode 205).
+- Kobayashi, Hisayasu. 「灯火の喩え――プラジュニャーカラグプタの自己認識理論――」 (The Lamp as an Example for Self-Awareness: Prajñākaragupta's Theory). *Indogaku Bukkyōgaku Kenkyū* (Journal of Indian and Buddhist Studies) 70, no. 2 (2022). https://doi.org/10.4259/ibk.70.2_926.
+- Arnold, Dan. "Candrakīrti on Dignāga on Svalakṣaṇas." *Journal of the International Association of Buddhist Studies* 26, no. 1 (2003): 139–174. https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/download/8934/2827.
+- MacDonald, Anne. "The Madhyamakāvatāra's Critique of Yogācāra." Lecture, Khyentse Center for Tibetan Buddhist Textual Scholarship, Universität Hamburg, 12 January 2022. Source for Candrakīrti's critique of svasaṃvedana in Madhyamakāvatāra ch. 6. https://www.kc-tbts.uni-hamburg.de/events/2022-01-12-macdonald.html.
 
 **Philosophical and scientific sources**
 
-- Arnold, Dan. *Buddhists, Brahmins, and Belief: Epistemology in South Asian Philosophy of Religion*. New York: Columbia University Press, 2005.
-- Cozort, Daniel. *Unique Tenets of the Middle Way Consequence School*. Ithaca: Snow Lion, 1998.
 - Dreyfus, Hubert L. "Overcoming the Myth of the Mental: How Philosophers Can Profit from the Phenomenology of Everyday Expertise." *Proceedings and Addresses of the American Philosophical Association* 79, no. 2 (2005): 47–65.
-- Feynman, Richard P. *The Feynman Lectures on Physics*, vol. 1, chapter 4.
-- Gelman, Susan A. *The Essential Child*. New York: Oxford University Press, 2003.
-- Keil, Frank C. *Concepts, Kinds, and Cognitive Development*. Cambridge, MA: MIT Press, 1989.
+- Feynman, Richard P., Robert B. Leighton, and Matthew Sands. *The Feynman Lectures on Physics*, vol. 1, chapter 4, "Conservation of Energy." Reading, MA: Addison-Wesley, 1963.
 - Kosmann-Schwarzbach, Yvette. *The Noether Theorems: Invariance and Conservation Laws in the Twentieth Century*. Translated by Bertram E. Schwarzbach. New York: Springer, 2011. Includes the English translation of Noether's paper.
 - Lakoff, George, and Mark Johnson. *Metaphors We Live By*. Chicago: University of Chicago Press, 1980.
 - McDowell, John. *Mind and World*. Cambridge, MA: Harvard University Press, 1994.
-- McDowell, John. "What Myth?" *Inquiry* 50, no. 4 (2007): 338–51.
-- Newton, Isaac. *Principia*, Scholium to the Definitions. 1687.
+- McDowell, John. "What Myth?" *Inquiry* 50, no. 4 (2007): 338–351.
+- Newton, Isaac. *The Principia: Mathematical Principles of Natural Philosophy* (1687), Scholium to the Definitions. Translated by I. Bernard Cohen and Anne Whitman. Berkeley: University of California Press, 1999.
 - Noether, Emmy. "Invariante Variationsprobleme." *Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse* (1918): 235–257.
 - Núñez, Rafael E., and Eve Sweetser. "With the Future Behind Them: Convergent Evidence from Aymara Language and Gesture in the Crosslinguistic Comparison of Spatial Construals of Time." *Cognitive Science* 30, no. 3 (2006): 401–450. https://doi.org/10.1207/s15516709cog0000_62.
-- Sellars, Wilfrid. *Empiricism and the Philosophy of Mind*. 1956.
-- Spelke, Elizabeth S. "Principles of Object Perception." *Cognitive Science* 14 (1990).
-
-**Check before publication.** Several references above were compiled from memory and from the manuscript inserts. Confirm each title, page range and edition against the source before the book goes out. The Dzogchen and Madhyamaka secondary sources listed above must be checked against the primary Tibetan and Sanskrit texts before any claim drawn from them is published.
+- Sellars, Wilfrid. "Empiricism and the Philosophy of Mind." In *The Foundations of Science and the Concepts of Psychology and Psychoanalysis*, edited by Herbert Feigl and Michael Scriven, 253–329. Minnesota Studies in the Philosophy of Science 1. Minneapolis: University of Minnesota Press, 1956.

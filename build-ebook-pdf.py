@@ -29,7 +29,7 @@ PDF_OUT = HERE / "the-observer-and-the-taste-of-presence.pdf"
 
 TITLE = "The Observer and the Taste of Presence"
 AUTHOR = "John Tan (Thusness)"
-EDITION = "Draft edition, October 2026. Citations and verse references are still being checked."
+EDITION = "Draft edition, October 2026."
 
 AUTHOR_ONLY = ("*Notes:", "*Check:", "*Appendix A is an index", "**Check before publication.**")
 

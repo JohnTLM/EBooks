@@ -46,7 +46,7 @@ Claude Code can also check that no part is missing and that the headings are in 
 - Check that the status line at the bottom of Part IV is removed or updated.
 - Remove the status lines at the top of each file if you don't want them in the final text.
 - The "Notes" lines in each chapter are for the author. Remove them before publication.
-- The citations marked "check" still need verifying. They are listed in the notes.
+- The verification record is `verification-log.md`. Its "Still open" section lists anything not yet closed.
 
 The PDF build below does the first four of these for you in the PDF only. `ebook-combined.md` itself is left unchanged.
 
