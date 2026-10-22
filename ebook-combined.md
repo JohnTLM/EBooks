@@ -24,7 +24,7 @@ This book takes a position, and it is important that the reader knows which part
 
 The classical material includes the arguments of the *Mūlamadhyamakakārikā*, Candrakīrti's reply to Dignāga, Tsongkhapa's account of valid conventions, the Bahiya sutta, and the positions of Mipham, Gorampa and Longchenpa as they are reported in the secondary literature. These are presented as established, and the reader can compare them with the sources.
 
-The synthesis is of seven kinds. The first is the reading of analysis as a response to reification, rather than as a standing activity. The second is the claim that the question "why do appearances spring forth?" is itself a last reification, and that its dissolution is what the Dzogchen phrase "beyond cause and effect" names. The third is the claim that dependent arising and *lhun grub*, spontaneous presence, are not two equal descriptions. Any attempt to divide appearing belongs to dependent arising, and when the reifying habit stops, the same appearing is spontaneous presence. The two traditions converge on this. The fourth is the reading of Dōgen's *Gabyō* through the concept of designation. The fifth is the reading of the two claims (that analysis leaves no foundation, and that appearances arise when conditions align) as one event described in two ways, with the flame as the book's illustrative device. The sixth is the insubstantial reading of self-appearing: the alignment of conditions is the appearing, and the appearing has no owner. The seventh is the three-assumptions framing of Chapter 16, which is the author's scheme and not one that Madhyamaka presents. These are the author's own, and they are marked as such where they appear.
+The synthesis is of eight kinds. The first is the reading of analysis as a response to reification, rather than as a standing activity. The second is the claim that the question "why do appearances spring forth?" is itself a last reification, and that its dissolution is what the Dzogchen phrase "beyond cause and effect" names. The third is the claim that dependent arising and *lhun grub*, spontaneous presence, are not two equal descriptions. Any attempt to divide appearing belongs to dependent arising, and when the reifying habit stops, the same appearing is spontaneous presence. The two traditions converge on this. The fourth is the reading of Dōgen's *Gabyō* through the concept of designation. The fifth is the reading of the two claims (that analysis leaves no foundation, and that appearances arise when conditions align) as one event described in two ways, with the flame as the book's illustrative device. The sixth is the insubstantial reading of self-appearing: the alignment of conditions is the appearing, and the appearing has no owner. The seventh is the three-assumptions framing of Chapter 17, which is the author's scheme and not one that Madhyamaka presents. The eighth, in Chapter 3, is the claim that the seer-seen split is felt in the body as contraction, and that contraction is felt as a self. That claim is offered for inspection, and readers can test it in their own experience before accepting it. These are the author's own, and they are marked as such where they appear.
 
 The reader should also know that the traditions do not agree on the synthesis. Some Dzogchen lineages hold that the view is its own resultant vehicle, not reducible to Madhyamaka analysis. Gorampa (1429–1489) read the Madhyamaka critique of intrinsic nature more absolutely than Mipham (1846–1912) did. The two never debated: Mipham wrote four centuries later and drew on Gorampa's work. The contrast between their readings is useful because both agree on the danger of reification. The synthesis is that Prāsaṅgika Madhyamaka, as Candrakīrti and Tsongkhapa read it, and Nyingma Dzogchen share the view of appearing set out here. Gelug is a school within Prāsaṅgika, not a third party to the claim. No single tradition has stated this exact formulation, and the claim that the two share a view is the author's synthesis. This book does not decide between Gorampa's and Mipham's readings. It argues that the two traditions converge on undoing the substantialist grasp, and it presents the claim that they share a view of appearing and its emptiness as a reading that can be defended, not as a settled point.
 
@@ -44,7 +44,7 @@ Terms are used in their standard senses where the tradition has one. Where the b
 
 ## How to Read This Book
 
-The book has four parts, and each builds on the one before. Part I looks for the observer and finds vividness without a viewer. Part II examines the logics that produce the sense of a substrate and the three candidates most often offered for one. Part III turns the analysis on the eight extremes, on identity and convention, and on the two modes of seeing. Part IV takes up the fourth assumption and the Dzogchen phrase "beyond cause and effect," and ends with the taste of pacified reification.
+The book has four parts, and each builds on the one before. Part I looks for the observer and finds vividness without a viewer. Part II begins with the habit that keeps the sense of a substrate alive, examines the logics that produce it, and then the three candidates most often offered for one. Part III turns the analysis on the eight extremes, on identity and convention, and on the two modes of seeing. Part IV takes up the fourth assumption and the Dzogchen phrase "beyond cause and effect," and ends with the taste of pacified reification.
 
 Readers who want the argument straight through can read the chapters in order. Each opens by naming what the previous chapter left unresolved, so the thread is not lost.
 
@@ -96,7 +96,7 @@ The same gray looks lighter against a dark surround and darker against a bright 
 
 A reader may reasonably ask whether this dependence is itself a kind of inner fact. Does the red depend on the mind, and is the mind then the ground? That question leads back to the witness, and it will be answered more fully in later chapters. For now the reader should see that the dependence is visible in the appearing. The red does not need an argument to be shown dependent. It shows itself that way in the same moment that it shows itself as red.
 
-What, then, is the vividness? The Dzogchen tradition uses the word luminosity for the clarity of an appearance, and the word can be misread. It sounds as if there were a bright substance behind the display, shining through it the way a lamp shines through a window. Looked at carefully, the clarity is not behind the display. It is the knowing clarity of the display itself. A sound is heard as sound. A cold is felt as cold. The knowing and the known are not two things, and the clarity is what the appearance is when it is not being held at a distance. This identification of appearing with its knowing clarity is the book's reading of the luminosity tradition. Chapter 18 sets out the objection it faces.
+What, then, is the vividness? The Dzogchen tradition uses the word luminosity for the clarity of an appearance, and the word can be misread. It sounds as if there were a bright substance behind the display, shining through it the way a lamp shines through a window. Looked at carefully, the clarity is not behind the display. It is the knowing clarity of the display itself. A sound is heard as sound. A cold is felt as cold. The knowing and the known are not two things, and the clarity is what the appearance is when it is not being held at a distance. This identification of appearing with its knowing clarity is the book's reading of the luminosity tradition. Chapter 19 sets out the objection it faces.
 
 This matters because it removes the need for a carrier. Every candidate that might be offered as the bearer of vividness, whether a soul, a stream of consciousness, a neural core or a store of potentials, is itself something that appears. It is seen, named, picked out by criteria. So it is designated like everything else, and it would need a carrier of its own. Luminosity is not that kind of object. It is the clarity by which an appearance is known as it appears. The reliability of the appearance is accounted for by its conditions, and its clarity by its own being clear. Nothing further is needed. A reader who tries to say what the clarity requires beyond these will find that each attempt turns the clarity into a thing, and each thing is again an appearance.
 
@@ -110,7 +110,7 @@ Once the witness has gone and the vividness is left, a question remains that the
 
 ## Part I: bridge to Part II
 
-The witness was looked for and not found. Vividness was looked at and found without a viewer. What remains is the suspicion that appearance must rest on something beneath it. Part II takes that suspicion through the logics that produce it, and then through the three candidates most often offered as the ground: the Given, energy, and a store of possibility.
+The witness was looked for and not found. Vividness was looked at and found without a viewer. What remains is the suspicion that appearance must rest on something beneath it. Part II begins with the habit that keeps that suspicion alive, takes it through the logics that produce it, and then through the three candidates most often offered as the ground: the Given, energy, and a store of possibility.
 # The Observer and the Taste of Presence
 
 *Assembled draft, step 2 of 6: Part II. Step 1 holds the front matter and Part I. Verification pass of 2026-10-22 applied: unconfirmed chapter numbers removed; Candrakīrti's target described as an interlocutor resembling Dignāga; the unsourced object-of-negation example deleted; unconfirmed bibliographic details removed; Genjōkōan passage sourced.*
@@ -119,7 +119,67 @@ The witness was looked for and not found. Vividness was looked at and found with
 
 # Part II: The Logics and the Substrates
 
-## Chapter 3: Two Logics
+## Chapter 3: Ignorance and Its Habit
+
+A reader finishes Part I and agrees with every line. The witness was not found, vividness did not need a viewer, and the argument holds. The next morning someone says something unkind, and within a second there is a someone who was hurt, a someone who now plans a reply. The reader notices this, and the noticing is itself something that appears in the same way. Nothing in the earlier argument was false. It simply did not reach the place where the habit works.
+
+That gap is the subject of this chapter.
+
+### Not knowing, and not seeing
+
+Buddhist traditions name the root of suffering ignorance, *avidyā*. The word is easy to misread as a lack of information. A person who has never been told how the planets move is ignorant in that sense, and the remedy is to tell them. The ignorance meant here is different. It is a misrecognition of what is already present. In Dzogchen the term is *ma rigpa*, non-recognition: the nature of appearing is there, and it goes unrecognised. The remedy is not a fact to learn but a seeing that was overlooked. *Ma rigpa* is not a translation of *avidyā*. The two name the same root, the first from the side of what is not recognised and the second from the side of what is not known, and the overlap should not be taken for identity.
+
+This distinction runs through the rest of the book. If ignorance were a missing belief, a good argument could fill it. If ignorance is a habit of not seeing, then argument can only reach a belief about the habit, and the habit carries on working.
+
+### The pattern runs before reasoning
+
+The sequence in an ordinary moment is quick, and it is hard to catch because it does not feel like a sequence. Something contacts the senses or the mind. The contact is at once arranged into a seer, a seeing and a seen. A feeling follows: pleasure or pain, attraction or pulling away, a faint tightening or a sense of ease. Then reasoning begins, and it takes the arrangement as the fact it has to deal with. By the time a thought forms, the frame is already in place, and the thought defends it.
+
+Reasoning is not the source. It arrives late and borrows the frame's grammar. This is why people who can argue skilfully against a self can still be wounded by a slight. The argument happened in one place and the wound in another, and the habit that moves between them was never touched.
+
+### Why insight does not dislodge it
+
+Here the book has to be honest about itself. Anatta insight can come as a real breakthrough. A reader can see that the one who hears is not found, and feel the relief of it. But very soon the insight starts to be used. "There is no self" becomes something to understand, to hold and to defend, and the one who understands it is the seer again, now standing with a new view. The habit does not object to the new view. It absorbs it.
+
+Analysis works the same way. A reader who examines the self with reasoning is using the same frame to do it. The question "who is looking?" presumes a looker. Each new analysis builds a fresh subject-object relation around whatever it examines, and then treats the result as neutral. The framework does not merely survive the argument. It produces the argument.
+
+This is what the tradition means when it says ignorance is not dissolved by knowledge. Knowledge about ignorance is one more thing known, and the one who knows it is one more seer.
+
+### Why logic is needed after all
+
+If insight is not enough and the habit absorbs reasoning, why go on to logic at all? Because the habit is most persuasive when nothing challenges it. An argument that shows how the frame is assumed, rather than found, gives the seeing something to rest on when the feelings are strong. The logics in the next chapter do not replace the seeing. They help keep it steady while the habit tries to take it back.
+
+That is also why the logics have to be shown using the same words as the habit, while beginning from somewhere else. Chapter 4 takes that up.
+
+### The felt side of the habit
+
+The structuring is not only conceptual. Consider what goes with the sense that someone has been hurt. The chest may tighten. Breath shortens. Attention narrows to a point and draws in. The world feels further off, and the self feels more solid and more in need of protection or repair. When the frame loosens, the same body may soften, the breath lengthen, the attention open.
+
+The chapter offers a claim about experience for inspection: the seer-seen split is felt as contraction, and contraction is felt as a self. Readers can test this in their own experience without accepting it first. In a moment of irritation or loss, notice whether the sense of being wronged arrives with a particular tightening, and whether that tightening eases when the sense of someone being wronged is not taken as a fact. This is an introspective observation, not a controlled finding, and it should be tested before it is believed.
+
+### What the habit is made of
+
+The habit rests on at least four supports, and each can be looked at directly.
+
+**Grammar.** Language gives the subject-predicate form, which places a stable doer behind every act. The section "Do we actually think substantially?" in Chapter 4, Two Logics, shows how far this reaches. It is not a theory anyone chose, and it is not removed by saying that everything changes.
+
+**Memory.** The self is assembled from remembered episodes, and the remembering is treated as proof that a rememberer exists. But the remembering appears as an event, like the sound of rain, and it can be looked at in the same way.
+
+**Naming.** A name is attached to a stream of experience and then given the job of standing for a continuing holder. The name is useful. It is a designation, not a holder.
+
+**The need for a ground.** This may be the deepest support. Uncertainty feels like falling, and so a floor is looked for beneath experience. That wish is what the later chapters trace through the substrates. It is also what makes the habit feel like a necessity rather than a choice.
+
+### Seeing the pattern, not fighting it
+
+The practical conclusion is that the first step is to see the pattern as a pattern. The aim is not to replace it with a better picture, and it is not to suppress the feelings that arrive with it. A new positive account of "the true nature" beneath the seer would only build a second seer. Madhyamaka's distinction between a negation that installs nothing and one that installs a replacement is the guide here. The pattern is seen as something added, and the adding is noticed without a substitute put in its place.
+
+Seeing the pattern can be brief. A thought of "I" arises, and it is noticed as a thought. A feeling of being wronged arises, and it is noticed as tightness, heat, narrowing. Nothing is done to it. The looking is enough to show that the seer was not standing where the habit said it stood.
+
+*Notes: Added on the website on 2026-10-22 and brought into the manuscript the same day; later chapters renumbered (old 3 to 22 became 4 to 23). The chapter adds an eighth kind of synthesis to the Note on Method (the felt contraction); the Note on Method, How to Read and the Part I bridge were updated to match. One word changed from the website text: in the felt-side section, "tested" replaces the website's wording for how the claim is to be examined before it is believed.*
+
+---
+
+## Chapter 4: Two Logics
 
 Watch a candle burn for a minute. The flame leans, steadies, shrinks when the door opens, and recovers. Ask what is happening, and the answer arrives before any thought: the flame is changing. Something is there, and something is happening to it.
 
@@ -135,7 +195,7 @@ The test is not what people say when asked, but what they do when they are not a
 
 *In space.* Asked, few people will say that space is a thing. Yet almost everyone pictures it as one: a vast, empty room in which objects are placed, which would remain if every star were removed. Newton wrote the intuition into physics, holding that absolute space stays always the same, without relation to anything outside it. The picture shapes casual speech: there is room for a sofa, nothing between the stars. What is never met is space apart from distance and reach. The room that would survive the removal of everything is not found. It is assumed.
 
-*In time.* Time is held more tightly still. It is pictured as a river flowing on its own, carrying events whether or not anything happens. Language treats time as a substance in two ways at once. It is a moving thing: the deadline approaches, the years went by. And it is a stuff: we spend it, save it, and run out of it, the pattern Lakoff and Johnson called "time is money". Cultures differ in the shape of the picture, and speakers of Aymara, Núñez and Sweetser found, place the past in front and the future behind. But the substance remains: a time that is somewhere, apart from the events placed in it. The general anaesthetic of Chapter 9 is the plain counter-evidence. Three hours pass on the clock and none in experience. No river was found that flowed by itself.
+*In time.* Time is held more tightly still. It is pictured as a river flowing on its own, carrying events whether or not anything happens. Language treats time as a substance in two ways at once. It is a moving thing: the deadline approaches, the years went by. And it is a stuff: we spend it, save it, and run out of it, the pattern Lakoff and Johnson called "time is money". Cultures differ in the shape of the picture, and speakers of Aymara, Núñez and Sweetser found, place the past in front and the future behind. But the substance remains: a time that is somewhere, apart from the events placed in it. The general anaesthetic of Chapter 10 is the plain counter-evidence. Three hours pass on the clock and none in experience. No river was found that flowed by itself.
 
 *In grammar.* Every sentence about change has a subject and a predicate. The flame flickers, the market falls, I have changed. The subject is held still so that the predicate can happen to it. This is not a theory anyone chose. It is the shape a thought takes before it becomes a thought. Saying that everything changes does not escape it, since "everything" becomes the subject and is still pictured as the thing doing the changing.
 
@@ -155,7 +215,7 @@ This is the difference between the Middle Way and its imitations. A view that cl
 
 ---
 
-## Chapter 4: The Given
+## Chapter 5: The Given
 
 If there is no observer standing behind experience, the next question is whether appearance rests on something beneath it: some undesignated layer that is simply there, which concepts then describe. Philosophers have called this the Given. The idea has a long history in the West and an older, more rigorous one in Buddhist epistemology.
 
@@ -193,7 +253,7 @@ When the particular is not found, the two-storey building has no ground floor. P
 
 ---
 
-## Chapter 5: Conceptual All the Way Down?
+## Chapter 6: Conceptual All the Way Down?
 
 If there is no Given, the opposite conclusion beckons. Perhaps experience is concept through and through, and the world is simply what our concepts make of it.
 
@@ -220,7 +280,7 @@ So the answer to the objection is neither "conceptual all the way down" nor "non
 
 ---
 
-## Chapter 6: Energy
+## Chapter 7: Energy
 
 A reader trained in physics may feel that a carrier has been found after all. Energy is conserved. It changes form, chemical into heat, heat into motion, mass into light, while the total stays the same. Surely energy is the something that persists through every change: the modern successor to substance.
 
@@ -234,7 +294,7 @@ From the side of this book, "where did the energy come from, and where did it go
 
 ---
 
-## Chapter 7: Potentiality and Plasticity
+## Chapter 8: Potentiality and Plasticity
 
 A subtler candidate remains. If nothing is fixed from its own side, appearances seem endlessly malleable. The same dress is seen as white and gold or as blue and black. The same lines are seen as a duck or a rabbit. The same electron appears as a particle or a wave depending on how it is asked. Surely, then, there is a store of potentialities from which these appearances are drawn: Aristotle's potency, Heisenberg's potentia, the abstract space of possibilities that quantum theory describes. Appearances would be the actualisations, and the potentialities what is really there.
 
@@ -250,7 +310,7 @@ The Dzogchen word *ma 'gags pa*, unobstructed, fits better than "potential". Not
 
 ---
 
-## Chapter 8: Continuity Without a Carrier
+## Chapter 9: Continuity Without a Carrier
 
 If there is no carrier, what makes a life one life, a habit one habit, a river one river? The logic of substance has only one answer: something persists. A soul, a stream of consciousness, a neural core, or the energy that is conserved: each is proposed as what carries continuity through time. Remove it, the substantialist expects, and what is left is a series of disconnected flashes, each moment sealed off from the next.
 
@@ -260,11 +320,11 @@ A melody known by heart shows how this works. Each playing is new, and none is t
 
 Two consequences follow. The first is that nothing is lost. Memory, responsibility, learning and the karmic continuity the tradition describes are all preserved, as designations that hold. The second is that nothing is fixed. A continuity not carried by an essence can bend. A habit can loosen, a character can soften, a grievance can end, because there was never anything underneath that had to stay the same. Continuity without a carrier is more reliable than the nihilist expects, and more open than the substantialist can allow.
 
-*Notes: The lamp image is drawn from the Milindapañha. The melody and the carrier argument are from "The logic of dependency"; the death material from "Death and continuity" is in Chapter 9, which follows.*
+*Notes: The lamp image is drawn from the Milindapañha. The melody and the carrier argument are from "The logic of dependency"; the death material from "Death and continuity" is in Chapter 10, which follows.*
 
 ---
 
-## Chapter 9: The Candle and the Weight of Watching
+## Chapter 10: The Candle and the Weight of Watching
 
 Under general anaesthesia three hours pass on the clock, and none in experience. No river of time flowed by itself, carrying an unconscious passenger. On waking, the familiar self is put together again: fully functional, and nowhere to be found as a standing spectator. The continuity was not a thing that persisted through the sleep. It was designated, on waking, across the gap in experience.
 
@@ -291,13 +351,13 @@ The view asks nothing of the dying about what comes after. It asks them to see t
 The logic of substance keeps returning, and it returns through the three candidates for a ground: the Given, energy, and potentiality. Each has been shown to be a designation that works but cannot stand on its own. Continuity, too, was shown to need no carrier. What remains is the question of how the mind divides appearance in the first place, and what the analysis of that division can and cannot do. Part III takes up the eight extremes and the two modes of seeing.
 # The Observer and the Taste of Presence
 
-*Assembled draft, step 3 of 6: Part III. Steps 1 and 2 hold the front matter, Part I and Part II. Terminology aligned to the canonical view: "seeing" is used for the difference between svabhāva and dependent origination; "stance" is no longer used. Chapter 12 corrected against the source for Tsongkhapa's criteria (2026-10-22). Open notes closed against the verification log (2026-10-22).*
+*Assembled draft, step 3 of 6: Part III. Steps 1 and 2 hold the front matter, Part I and Part II. Terminology aligned to the canonical view: "seeing" is used for the difference between svabhāva and dependent origination; "stance" is no longer used. Chapter 13 corrected against the source for Tsongkhapa's criteria (2026-10-22). Open notes closed against the verification log (2026-10-22).*
 
 ---
 
 # Part III: Two Modes and the Middle Way
 
-## Chapter 10: Change Without a Changer
+## Chapter 11: Change Without a Changer
 
 The logic of substance pictures change as a noun with verbs happening to it. There is a flame, and the flame flickers. There is a person, and the person ages. There is water, and the water freezes. The noun is the stable carrier. The verbs are what befall it. The question "what really changed?" looks for the carrier underneath.
 
@@ -315,7 +375,7 @@ The test is available at once. The next time the picture of something changing a
 
 ---
 
-## Chapter 11: The Eight Extremes
+## Chapter 12: The Eight Extremes
 
 Nāgārjuna's homage names eight extremes in four pairs: arising and ceasing, permanence and annihilation, coming and going, identity and difference. Under the logic of substance these are simply the questions one asks about anything. When did it start? When will it end? Does it last, or is it destroyed? Where did it come from, and where did it go? Is it the same as that, or different?
 
@@ -342,7 +402,7 @@ This turns ordinary experience upside down without removing any of it. Switch of
 
 ---
 
-## Chapter 12: Identity, Convention and the Criteria of Truth
+## Chapter 13: Identity, Convention and the Criteria of Truth
 
 Under the logic of substance, "what is it?" and "is it the same?" have answers hidden in the thing itself. A thing is what its essence makes it, and it remains the same thing as long as the essence remains. The questions may be hard, but they are factual. Somewhere in the thing, the answer is waiting to be found.
 
@@ -364,7 +424,7 @@ There is no second, deeper truth for convention to fall short of. Ultimate truth
 
 ---
 
-## Chapter 13: Analysis and the Dividing Mind
+## Chapter 14: Analysis and the Dividing Mind
 
 Cognition divides. It takes a whole, separates it into parts, names the parts, and asks which part carries the identity of the whole. A cup becomes a handle, a rim and a body. Motion becomes a before and an after. This is conceptual construction, the mode of mind that the Buddhist traditions call *vikalpa* or *kalpanā*.
 
@@ -386,7 +446,7 @@ The logic runs in one direction. Whatever arises dependently arises from causes 
 
 ---
 
-## Chapter 14: Reification and Svabhāva as a Way of Seeing
+## Chapter 15: Reification and Svabhāva as a Way of Seeing
 
 Where does a ground come from? Not from the appearances themselves, which are many, particular and relational. It comes from a two-step operation.
 
@@ -404,11 +464,11 @@ This is why the taste of presence cannot be described as a foundation the analys
 
 It also explains why the habit is hard to see. The mind has learned, through language, perception and emotion, to treat each vivid appearance as a thing with a fixed character. The habit is so reliable that the designation disappears into what is designated. The inherent framework is not argued for. It is assumed each time the appearance is met. Repeated looking loosens the assumption. Each time the formation is watched, the framework is seen to be added, not found. What was taken as a fact about the world is recognised as a way of seeing it, one that works without needing to be true from its own side.
 
-*Notes: The apoha reference is to Dharmakīrti, whose sections are treated in Chapter 4. The Madhyamaka reading of svabhāva as a way of seeing is the book's synthesis and carries the same status note as the rest of the synthesis material.*
+*Notes: The apoha reference is to Dharmakīrti, whose sections are treated in Chapter 5. The Madhyamaka reading of svabhāva as a way of seeing is the book's synthesis and carries the same status note as the rest of the synthesis material.*
 
 ---
 
-## Chapter 15: Non-Dividing Seeing
+## Chapter 16: Non-Dividing Seeing
 
 Analysis answers the dividing habit. It works when there is a habit to reify, and it reaches its end when there is nothing left to examine. The question of this chapter is what remains then.
 
@@ -439,7 +499,7 @@ The eight extremes turned over, the criteria of convention, and the two modes of
 
 # Part IV: Beyond Cause and Effect
 
-## Chapter 16: The Three Assumptions and the Fourth
+## Chapter 17: The Three Assumptions and the Fourth
 
 The phrase "beyond cause and effect" is one of the most misunderstood in the Dzogchen vocabulary. Read quickly, it sounds like an exception: a realm where causes do not operate, or a ground that produces appearances without being produced itself. A Madhyamaka reader will reasonably ask whether this is simply a smuggled substrate, a producer granted one final exemption from having to justify itself.
 
@@ -475,7 +535,7 @@ The "why" question has force only while a producer seems to stand behind appeari
 
 ---
 
-## Chapter 17: Spontaneous Presence
+## Chapter 18: Spontaneous Presence
 
 The Dzogchen term for this appearing is *lhun grub*, spontaneous presence. The word can slide into causelessness, and an uncaused source is exactly the *svabhāva* that Madhyamaka rejects. That is the risk, and the book should name it openly.
 
@@ -497,7 +557,7 @@ This is the book's insubstantial reading of self-appearing. "Self" here names on
 
 ---
 
-## Chapter 18: Two Traditions, One Risk
+## Chapter 19: Two Traditions, One Risk
 
 The two traditions are not in agreement on everything, and their synchronisation has to be argued rather than assumed.
 
@@ -517,7 +577,7 @@ The two traditions also meet at a shared danger in practice. Dzogchen teachers d
 
 ---
 
-## Chapter 19: The Gap and Its Absence
+## Chapter 20: The Gap and Its Absence
 
 If every act of knowing carries a structure of subject facing object, with a ground behind the appearing, then every taste of presence is already filtered through a gap. Any act of knowing carries the structure with it, so the direct taste cannot be reached by adding one more act on top of the rest.
 
@@ -535,7 +595,7 @@ A caution belongs here. "No gap, no ground" can become a new ground: a confident
 
 ---
 
-## Chapter 20: The Taste of Pacified Reification
+## Chapter 21: The Taste of Pacified Reification
 
 What is it like, from inside, when reification is pacified? The classical formulation is found in the Bahiya sutta, Udāna 1.10. In Ṭhānissaro Bhikkhu's translation it reads: "In reference to the seen, there will be only the seen. In reference to the heard, only the heard." Other translations differ in wording, and the book follows the one named here throughout. The sutta is sometimes read as reducing experience to isolated sense events, or as describing a blank. Neither reading fits.
 
@@ -547,11 +607,11 @@ The same unfixed appearing can be met in two ways. Open seeing is what appears w
 
 The taste is also not a denial of the world. The seen is still seen, the heard still heard. Nothing has been removed from experience. What has been removed is the addition of a viewer and a ground, and with them the sense that experience is happening to someone from somewhere.
 
-*Notes: The Bahiya passage is Udāna 1.10 in Ṭhānissaro Bhikkhu's translation (Access to Insight and dhammatalks.org; it is not the SuttaCentral translation). Chapter 2 quotes the same wording, and Chapter 15 echoes it. The Preface and the Glossary do not quote the passage.*
+*Notes: The Bahiya passage is Udāna 1.10 in Ṭhānissaro Bhikkhu's translation (Access to Insight and dhammatalks.org; it is not the SuttaCentral translation). Chapter 2 quotes the same wording, and Chapter 16 echoes it. The Preface and the Glossary do not quote the passage.*
 
 ---
 
-## Chapter 21: Painted Food, Painted Hunger
+## Chapter 22: Painted Food, Painted Hunger
 
 Zen has an old saying: a painted rice cake does not satisfy hunger. It is a warning that concepts are pictures of food, and that realisation is eating. The monk Xiangyan, famous for his learning, burned his notes after failing to answer his teacher's question. Years later, sweeping a path, he heard a pebble strike a bamboo stalk and woke.
 
@@ -582,7 +642,7 @@ The point is not to arrive at a feeling of emptiness while chewing. It is to not
 
 ---
 
-## Chapter 22: Recognition, Not Effort
+## Chapter 23: Recognition, Not Effort
 
 Recognition is the central term of Dzogchen practice, and this chapter uses it in a narrower sense than the tradition often does. In Dzogchen, knowledge of the basis comes from recognising it, and recognition is frequently identified with awakening. The argument here does not dispute that recognition is decisive. It disputes only one reading of it: that recognition is a state built up through effort, or a result gained by practice. Freedom is not produced, and practice does not make it. What practice does is undo the habit that obscures it, and recognition is the seeing that the undoing makes possible. The title, Recognition, Not Effort, should be read in that sense.
 
@@ -592,7 +652,7 @@ Recognition is the key term. *Lhun grub* means already complete. It is not produ
 
 The same caution applies to negation. The Middle Way warns that those who take emptiness as a view are incurable. A way out that works by negating appearances until nothing is left is still a fixer, now working on a different object. Recognition differs in kind. It does not negate. It sees that appearances are already not fixed. Nothing needs to be done to appearances themselves. What needs doing is undoing the habit that fixes them, and that undoing is itself a practice.
 
-Madhyamaka draws a distinction that helps here, already met in Chapter 3 as a negation without a thesis and in Chapter 11 as the eight negations. Non-implicative negation denies without installing a replacement. Implicative negation denies and installs a positive ground in its place. Recognition must remain in the first category. If "the nature of each appearance" becomes a positive ground beneath appearances, the disease of reification has returned in a new form.
+Madhyamaka draws a distinction that helps here, already met in Chapter 4 as a negation without a thesis and in Chapter 12 as the eight negations. Non-implicative negation denies without installing a replacement. Implicative negation denies and installs a positive ground in its place. Recognition must remain in the first category. If "the nature of each appearance" becomes a positive ground beneath appearances, the disease of reification has returned in a new form.
 
 The traditions differ on how the habit is undone. Gelug describes a graduated path of understanding and meditation that wears the habit down over time. Dzogchen describes a recognition that is not an accomplishment and happens at once. That is a difference in method, not in whether freedom is made.
 
@@ -606,7 +666,7 @@ The question of how to write about this is itself part of the practice. A prompt
 
 The book ends where it began. The observer that seemed to stand behind experience has not been found. Vividness has been seen without a viewer. The substrates, the logics and the modes of seeing have each been looked at and found to be designations that work and cannot stand on their own. Undoing the habit that fixed them requires clear knowing, and that clear knowing is the practice that remains.
 
-*Notes: The implicative and non-implicative negation passage is cross-referenced in the text to Chapter 3 ("What 'logic' means here": a negation without a thesis) and Chapter 11 (the eight negations), and the terms are defined in Appendix B. The final paragraph was read against the Preface (2026-10-22): both end where the book began, with the observer not found, vividness without a viewer, and nothing produced to replace the habit; the closing stress on clear knowing follows items 4 and 8 of the canonical view.*
+*Notes: The implicative and non-implicative negation passage is cross-referenced in the text to Chapter 4 ("What 'logic' means here": a negation without a thesis) and Chapter 12 (the eight negations), and the terms are defined in Appendix B. The final paragraph was read against the Preface (2026-10-22): both end where the book began, with the observer not found, vividness without a viewer, and nothing produced to replace the habit; the closing stress on clear knowing follows items 4 and 8 of the canonical view.*
 
 ---
 
@@ -631,28 +691,28 @@ The chapters of this book draw on the following verses of the *Mūlamadhyamakak�
 
 | Verse | Subject | Chapter(s) |
 | --- | --- | --- |
-| Homage | Dependent arising without arising or ceasing, without coming or going; the quieting of elaborations as peace | 11 |
-| 1.1 | Refutation of arising from self, other, both, and without cause; non-arising | 11, 16 |
-| 1.5 | Conditions and what arises from them. No MMK 1.5 salt-and-water passage has been found; the Chapter 7 example is the book's own illustration. | 7 |
-| 2 | Motion; walker and walking designated together | 10 |
-| 2.18–21 | The goer is neither identical with nor different from the going; changer and change | 10 |
-| 3 | Seeing, seer and seen; no seeing by its own nature; the chain of dependence | 1, 15 |
-| 5 | Space and its characteristic; the analysis of characterised and characteriser | 4 |
-| 7 | The conditioned: arising, abiding and ceasing | 11 |
-| 10.1 | Fire and fuel: neither one nor other | 3 |
-| 13.8 | Those who take emptiness as a view are incurable | 17, 22 |
-| 14 | Seer, seeing and seen; the analysis of contact and otherness | 1, 15 |
-| 15.2 | Own-nature (svabhāva) is defined as non-contingent and not dependent on anything other than itself. | 3, 11 |
-| 15.10–11 | Existence and non-existence of a thing standing on its own; permanence and annihilation | 3, 11 |
-| 18.5 | Proliferation ceases in emptiness | 13 |
-| 18.10 | Neither identical with nor different from what it depends on | 11 |
-| 19 | Time; the anaesthesia and the river of time | 3, 9 |
-| 24.8–10 | Conventional and ultimate truth; neither is a lower stage | 12 |
-| 24.14 | For whom emptiness is possible, everything is possible (the verb yujyate: "fits") | 7 |
-| 24.16–20 | Practice works because nothing is fixed | 22 |
-| 24.18 | Dependent co-arising is emptiness; that, being dependent designation, is the middle way | 13, 16 |
-| 24.19 | There is not one phenomenon that has not arisen dependently, and so none that is not empty | 13, 17 |
-| 27 | Continuity without persistence; neither identical nor wholly different | 8 |
+| Homage | Dependent arising without arising or ceasing, without coming or going; the quieting of elaborations as peace | 12 |
+| 1.1 | Refutation of arising from self, other, both, and without cause; non-arising | 12, 17 |
+| 1.5 | Conditions and what arises from them. No MMK 1.5 salt-and-water passage has been found; the Chapter 8 example is the book's own illustration. | 8 |
+| 2 | Motion; walker and walking designated together | 11 |
+| 2.18–21 | The goer is neither identical with nor different from the going; changer and change | 11 |
+| 3 | Seeing, seer and seen; no seeing by its own nature; the chain of dependence | 1, 16 |
+| 5 | Space and its characteristic; the analysis of characterised and characteriser | 5 |
+| 7 | The conditioned: arising, abiding and ceasing | 12 |
+| 10.1 | Fire and fuel: neither one nor other | 4 |
+| 13.8 | Those who take emptiness as a view are incurable | 18, 23 |
+| 14 | Seer, seeing and seen; the analysis of contact and otherness | 1, 16 |
+| 15.2 | Own-nature (svabhāva) is defined as non-contingent and not dependent on anything other than itself. | 4, 12 |
+| 15.10–11 | Existence and non-existence of a thing standing on its own; permanence and annihilation | 4, 12 |
+| 18.5 | Proliferation ceases in emptiness | 14 |
+| 18.10 | Neither identical with nor different from what it depends on | 12 |
+| 19 | Time; the anaesthesia and the river of time | 4, 10 |
+| 24.8–10 | Conventional and ultimate truth; neither is a lower stage | 13 |
+| 24.14 | For whom emptiness is possible, everything is possible (the verb yujyate: "fits") | 8 |
+| 24.16–20 | Practice works because nothing is fixed | 23 |
+| 24.18 | Dependent co-arising is emptiness; that, being dependent designation, is the middle way | 14, 17 |
+| 24.19 | There is not one phenomenon that has not arisen dependently, and so none that is not empty | 14, 18 |
+| 27 | Continuity without persistence; neither identical nor wholly different | 9 |
 
 ---
 
@@ -704,15 +764,15 @@ The chapters of this book draw on the following verses of the *Mūlamadhyamakak�
 
 **Rang grol.** Self-release: thought dissolves when it is not followed or fixed. The term is standard in Dzogchen and Mahāmudrā (Wikipedia, "Dzogchen"; Studybuddhism glossary).
 
-**Rang rig.** Self-cognizing awareness (Sanskrit *svasaṃvitti*). The Dzogchen position on it is debated: Mipham's *Beacon of Certainty* (Pettit 1999) defends Dzogchen in Madhyamaka terms, and Higgins (2013) reads Longchenpa as rejecting self-reflective awareness. Chapter 18 presents these readings and the Madhyamaka objection.
+**Rang rig.** Self-cognizing awareness (Sanskrit *svasaṃvitti*). The Dzogchen position on it is debated: Mipham's *Beacon of Certainty* (Pettit 1999) defends Dzogchen in Madhyamaka terms, and Higgins (2013) reads Longchenpa as rejecting self-reflective awareness. Chapter 19 presents these readings and the Madhyamaka objection.
 
-**Recognition** (*ngo shes*; *rang ngo shes* for self-recognition). In Dzogchen, the central term of the path. Knowledge of the basis (*rigpa*) comes from recognising it, and recognition is often identified with awakening: the recognition of the basis is "awakening" in the Dzogchen sources as summarised by Wikipedia. The book does not dispute that recognition is decisive. Its chapter title, "Recognition, Not Effort" (Chapter 22), means only that recognition is not produced by effort or accumulated as a state. See the Note on Method, fourth departure.
+**Recognition** (*ngo shes*; *rang ngo shes* for self-recognition). In Dzogchen, the central term of the path. Knowledge of the basis (*rigpa*) comes from recognising it, and recognition is often identified with awakening: the recognition of the basis is "awakening" in the Dzogchen sources as summarised by Wikipedia. The book does not dispute that recognition is decisive. Its chapter title, "Recognition, Not Effort" (Chapter 23), means only that recognition is not produced by effort or accumulated as a state. See the Note on Method, fourth departure.
 
 **Reification.** Taking an abstraction, or an appearance, to exist as a thing in its own right, standing beneath the particulars.
 
 **Rigpa** (*rig pa*). In Dzogchen, the knowledge of the basis, and the pristine awareness that is the basis itself. Its opposite is *ma rigpa*, ignorance, the failure to recognise the basis. Sanskrit *vidyā* ("knowledge"). The book's "knowing clarity" is a gloss on this, not a translation. Ācārya Malcolm Smith translates rigpa as *vidyā*, prefers to leave it untranslated, and holds that rendering it as "awareness" is wrong (quoted in his DharmaWheel posts and the Wisdom Podcast). *Confirmed by Wikipedia's Rigpa article: "knowledge of the ground," opposite ma rigpa.*
 
-**Svalakṣaṇa.** The particular, what characterises itself alone, in Dignāga's and Dharmakīrti's epistemology. Candrakīrti's first chapter answers a view closely resembling Dignāga's (Arnold 2003, "Candrakīrti on Dignāga on Svalakṣaṇas," *JIABS*). See Chapter 4.
+**Svalakṣaṇa.** The particular, what characterises itself alone, in Dignāga's and Dharmakīrti's epistemology. Candrakīrti's first chapter answers a view closely resembling Dignāga's (Arnold 2003, "Candrakīrti on Dignāga on Svalakṣaṇas," *JIABS*). See Chapter 5.
 
 **Ultimate truth** (*paramārtha-satya*). Not a higher world, but the emptiness of the conventional one.
 
@@ -727,15 +787,15 @@ The Beginner's Companion is this book's own step-by-step path, in eleven rounds.
 
 - **Round 1: The observer.** Look for the witness behind seeing and hearing. Chapters 1 and 2.
 - **Round 2: Vividness without a viewer.** Notice that experience is vivid without a holder. Chapter 2.
-- **Round 3: The chariot and the parts.** Apply the chariot to the observer and to objects. Chapters 1 and 13.
-- **Round 4: Dependence and designation.** The Dharmakīrti and Candrakīrti exchange, with the rope and snake. Chapters 4 and 5.
-- **Round 5: The Given and its alternatives.** The two-storey picture, the Given, and conceptual all the way down. Chapters 4, 5 and 14.
-- **Round 6: Energy, potentiality and continuity.** Test each candidate for a carrier. Chapters 6, 7 and 8.
-- **Round 7: Change without a changer.** Look for the changer apart from the change. Chapter 10.
-- **Round 8: The eight extremes.** Apply each extreme to a single object. Chapter 11.
-- **Round 9: Analysis and seeing.** Use the dividing mind against itself, then rest in non-dividing seeing. Chapters 13 and 15.
-- **Round 10: The taste.** Notice seen as just seen, heard as just heard. Chapter 20.
-- **Round 11: The meal.** The painted food and painted hunger exercise. Chapter 21.
+- **Round 3: The chariot and the parts.** Apply the chariot to the observer and to objects. Chapters 1 and 14.
+- **Round 4: Dependence and designation.** The Dharmakīrti and Candrakīrti exchange, with the rope and snake. Chapters 5 and 6.
+- **Round 5: The Given and its alternatives.** The two-storey picture, the Given, and conceptual all the way down. Chapters 5, 6 and 15.
+- **Round 6: Energy, potentiality and continuity.** Test each candidate for a carrier. Chapters 7, 8 and 9.
+- **Round 7: Change without a changer.** Look for the changer apart from the change. Chapter 11.
+- **Round 8: The eight extremes.** Apply each extreme to a single object. Chapter 12.
+- **Round 9: Analysis and seeing.** Use the dividing mind against itself, then rest in non-dividing seeing. Chapters 14 and 16.
+- **Round 10: The taste.** Notice seen as just seen, heard as just heard. Chapter 21.
+- **Round 11: The meal.** The painted food and painted hunger exercise. Chapter 22.
 
 ---
 
@@ -746,16 +806,16 @@ The Beginner's Companion is this book's own step-by-step path, in eleven rounds.
 - Dharmakīrti. *Nyāyabindu*, with Dharmottara's commentary. Translated by F. Th. Stcherbatsky in *Buddhist Logic*, vol. II. Bibliotheca Buddhica 26. Leningrad: Academy of Sciences of the USSR, 1930; Dover reprint, New York, 1962. The definition of perception as free from conceptual construction is in the Nyāyabindu literature; Dignāga's formula is *pratyakṣaṃ kalpanāpoḍhaṃ*, and Dharmakīrti adds "non-erroneous."
 - Dignāga. *Pramāṇasamuccaya*, chapter 1. Translated by Masaaki Hattori, *Dignāga, On Perception, being the Pratyakṣapariccheda of Dignāga's Pramāṇasamuccaya*. Harvard Oriental Series 47. Cambridge, MA: Harvard University Press, 1968.
 - Dōgen. *Genjōkōan*. Translated by Paul Jaffe in Hakuun Yasutani, *Flowers Fall: A Commentary on Zen Master Dōgen's Genjōkōan*. Boston: Shambhala, 1996. The Jaffe wording of the firewood-and-ash passage is as shown on the Terebess Zen Literature page for the Genjōkōan: https://terebess.hu/zen/dogen/KS-Genjo.html.
-- Dōgen. "Painting of a Rice Cake" (*Gabyō*). Translated by Kazuaki Tanahashi and Dan Welch. In *Moon in a Dewdrop: Writings of Zen Master Dōgen*, edited by Kazuaki Tanahashi. San Francisco: North Point Press, 1985. Chapter 21 paraphrases the fascicle and does not quote it.
+- Dōgen. "Painting of a Rice Cake" (*Gabyō*). Translated by Kazuaki Tanahashi and Dan Welch. In *Moon in a Dewdrop: Writings of Zen Master Dōgen*, edited by Kazuaki Tanahashi. San Francisco: North Point Press, 1985. Chapter 22 paraphrases the fascicle and does not quote it.
 - Garfield, Jay L. *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. New York: Oxford University Press, 1995. (MMK 24.18 translation; verse numbering in Appendix A.)
-- Longchenpa. *The Natural Freedom of the Nature of Mind* (*Sems nyid rang grol*). Translated by Herbert V. Guenther as "The Natural Freedom of Mind," *Crystal Mirror* IV (Berkeley: Dharma Publishing, 1975); and by Tulku Thondup as "Naturally Liberated Mind, the Great Perfection," in *The Practice of Dzogchen* (Ithaca: Snow Lion, 1989). Cited in Chapter 19 for its theme.
+- Longchenpa. *The Natural Freedom of the Nature of Mind* (*Sems nyid rang grol*). Translated by Herbert V. Guenther as "The Natural Freedom of Mind," *Crystal Mirror* IV (Berkeley: Dharma Publishing, 1975); and by Tulku Thondup as "Naturally Liberated Mind, the Great Perfection," in *The Practice of Dzogchen* (Ithaca: Snow Lion, 1989). Cited in Chapter 20 for its theme.
 - *Milindapañha*. The lamp image of Nāgasena (Book II). Translated by T. W. Rhys Davids, *The Questions of King Milinda*, Part I. Sacred Books of the East 35. Oxford: Clarendon Press, 1890.
 - Mipham. *Mipham's Beacon of Certainty: Illuminating the View of Dzogchen, the Great Perfection*. Translated and introduced by John Whitney Pettit. Studies in Indian and Tibetan Buddhism. Boston: Wisdom Publications, 1999.
 - Robinson, Richard H. *Early Mādhyamika in India and China*. Madison: University of Wisconsin Press, 1967. (MMK 24.18 translation.)
 - Siderits, Mark, and Shōryū Katsura. *Nāgārjuna's Middle Way: Mūlamadhyamakakārikā*. Classics of Indian Buddhism. Boston: Wisdom Publications, 2013. (MMK 24.18 translation; verse numbering in Appendix A.)
-- Sprung, Mervyn, trans., with T. R. V. Murti and U. S. Vyas. *Lucid Exposition of the Middle Way: The Essential Chapters from the Prasannapadā of Candrakīrti*. London and Henley: Routledge & Kegan Paul, 1979. (Also issued by Prajñā Press, Boulder, 1979.) Source of the MMK 24.18 rendering cited in Chapter 13.
-- Tsongkhapa. *Great Treatise on the Stages of the Path* (*Lam rim chen mo*), special-insight section (*Lhag mthong chen mo*, Great Exposition of Special Insight). Translated by the Lamrim Chenmo Translation Committee, *The Great Treatise on the Stages of the Path to Enlightenment*, vol. 3, edited by Joshua W. C. Cutler and Guy Newland. Ithaca: Snow Lion, 2002. Source of the three criteria for conventional existence (Chapter 12).
-- *Udāna* 1.10, the Bahiya sutta. Translated by Ṭhānissaro Bhikkhu. Access to Insight: https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html. Chapters 2 and 20 quote this translation.
+- Sprung, Mervyn, trans., with T. R. V. Murti and U. S. Vyas. *Lucid Exposition of the Middle Way: The Essential Chapters from the Prasannapadā of Candrakīrti*. London and Henley: Routledge & Kegan Paul, 1979. (Also issued by Prajñā Press, Boulder, 1979.) Source of the MMK 24.18 rendering cited in Chapter 14.
+- Tsongkhapa. *Great Treatise on the Stages of the Path* (*Lam rim chen mo*), special-insight section (*Lhag mthong chen mo*, Great Exposition of Special Insight). Translated by the Lamrim Chenmo Translation Committee, *The Great Treatise on the Stages of the Path to Enlightenment*, vol. 3, edited by Joshua W. C. Cutler and Guy Newland. Ithaca: Snow Lion, 2002. Source of the three criteria for conventional existence (Chapter 13).
+- *Udāna* 1.10, the Bahiya sutta. Translated by Ṭhānissaro Bhikkhu. Access to Insight: https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html. Chapters 2 and 21 quote this translation.
 
 **Dzogchen and Madhyamaka secondary sources consulted for the glossary**
 

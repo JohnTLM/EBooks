@@ -6,7 +6,7 @@
 
 # Part IV: Beyond Cause and Effect
 
-## Chapter 16: The Three Assumptions and the Fourth
+## Chapter 17: The Three Assumptions and the Fourth
 
 The phrase "beyond cause and effect" is one of the most misunderstood in the Dzogchen vocabulary. Read quickly, it sounds like an exception: a realm where causes do not operate, or a ground that produces appearances without being produced itself. A Madhyamaka reader will reasonably ask whether this is simply a smuggled substrate, a producer granted one final exemption from having to justify itself.
 
@@ -42,7 +42,7 @@ The "why" question has force only while a producer seems to stand behind appeari
 
 ---
 
-## Chapter 17: Spontaneous Presence
+## Chapter 18: Spontaneous Presence
 
 The Dzogchen term for this appearing is *lhun grub*, spontaneous presence. The word can slide into causelessness, and an uncaused source is exactly the *svabhāva* that Madhyamaka rejects. That is the risk, and the book should name it openly.
 
@@ -64,7 +64,7 @@ This is the book's insubstantial reading of self-appearing. "Self" here names on
 
 ---
 
-## Chapter 18: Two Traditions, One Risk
+## Chapter 19: Two Traditions, One Risk
 
 The two traditions are not in agreement on everything, and their synchronisation has to be argued rather than assumed.
 
@@ -84,7 +84,7 @@ The two traditions also meet at a shared danger in practice. Dzogchen teachers d
 
 ---
 
-## Chapter 19: The Gap and Its Absence
+## Chapter 20: The Gap and Its Absence
 
 If every act of knowing carries a structure of subject facing object, with a ground behind the appearing, then every taste of presence is already filtered through a gap. Any act of knowing carries the structure with it, so the direct taste cannot be reached by adding one more act on top of the rest.
 
@@ -102,7 +102,7 @@ A caution belongs here. "No gap, no ground" can become a new ground: a confident
 
 ---
 
-## Chapter 20: The Taste of Pacified Reification
+## Chapter 21: The Taste of Pacified Reification
 
 What is it like, from inside, when reification is pacified? The classical formulation is found in the Bahiya sutta, Udāna 1.10. In Ṭhānissaro Bhikkhu's translation it reads: "In reference to the seen, there will be only the seen. In reference to the heard, only the heard." Other translations differ in wording, and the book follows the one named here throughout. The sutta is sometimes read as reducing experience to isolated sense events, or as describing a blank. Neither reading fits.
 
@@ -114,11 +114,11 @@ The same unfixed appearing can be met in two ways. Open seeing is what appears w
 
 The taste is also not a denial of the world. The seen is still seen, the heard still heard. Nothing has been removed from experience. What has been removed is the addition of a viewer and a ground, and with them the sense that experience is happening to someone from somewhere.
 
-*Notes: The Bahiya passage is Udāna 1.10 in Ṭhānissaro Bhikkhu's translation (Access to Insight and dhammatalks.org; it is not the SuttaCentral translation). Chapter 2 quotes the same wording, and Chapter 15 echoes it. The Preface and the Glossary do not quote the passage.*
+*Notes: The Bahiya passage is Udāna 1.10 in Ṭhānissaro Bhikkhu's translation (Access to Insight and dhammatalks.org; it is not the SuttaCentral translation). Chapter 2 quotes the same wording, and Chapter 16 echoes it. The Preface and the Glossary do not quote the passage.*
 
 ---
 
-## Chapter 21: Painted Food, Painted Hunger
+## Chapter 22: Painted Food, Painted Hunger
 
 Zen has an old saying: a painted rice cake does not satisfy hunger. It is a warning that concepts are pictures of food, and that realisation is eating. The monk Xiangyan, famous for his learning, burned his notes after failing to answer his teacher's question. Years later, sweeping a path, he heard a pebble strike a bamboo stalk and woke.
 
@@ -149,7 +149,7 @@ The point is not to arrive at a feeling of emptiness while chewing. It is to not
 
 ---
 
-## Chapter 22: Recognition, Not Effort
+## Chapter 23: Recognition, Not Effort
 
 Recognition is the central term of Dzogchen practice, and this chapter uses it in a narrower sense than the tradition often does. In Dzogchen, knowledge of the basis comes from recognising it, and recognition is frequently identified with awakening. The argument here does not dispute that recognition is decisive. It disputes only one reading of it: that recognition is a state built up through effort, or a result gained by practice. Freedom is not produced, and practice does not make it. What practice does is undo the habit that obscures it, and recognition is the seeing that the undoing makes possible. The title, Recognition, Not Effort, should be read in that sense.
 
@@ -159,7 +159,7 @@ Recognition is the key term. *Lhun grub* means already complete. It is not produ
 
 The same caution applies to negation. The Middle Way warns that those who take emptiness as a view are incurable. A way out that works by negating appearances until nothing is left is still a fixer, now working on a different object. Recognition differs in kind. It does not negate. It sees that appearances are already not fixed. Nothing needs to be done to appearances themselves. What needs doing is undoing the habit that fixes them, and that undoing is itself a practice.
 
-Madhyamaka draws a distinction that helps here, already met in Chapter 3 as a negation without a thesis and in Chapter 11 as the eight negations. Non-implicative negation denies without installing a replacement. Implicative negation denies and installs a positive ground in its place. Recognition must remain in the first category. If "the nature of each appearance" becomes a positive ground beneath appearances, the disease of reification has returned in a new form.
+Madhyamaka draws a distinction that helps here, already met in Chapter 4 as a negation without a thesis and in Chapter 12 as the eight negations. Non-implicative negation denies without installing a replacement. Implicative negation denies and installs a positive ground in its place. Recognition must remain in the first category. If "the nature of each appearance" becomes a positive ground beneath appearances, the disease of reification has returned in a new form.
 
 The traditions differ on how the habit is undone. Gelug describes a graduated path of understanding and meditation that wears the habit down over time. Dzogchen describes a recognition that is not an accomplishment and happens at once. That is a difference in method, not in whether freedom is made.
 
@@ -173,7 +173,7 @@ The question of how to write about this is itself part of the practice. A prompt
 
 The book ends where it began. The observer that seemed to stand behind experience has not been found. Vividness has been seen without a viewer. The substrates, the logics and the modes of seeing have each been looked at and found to be designations that work and cannot stand on their own. Undoing the habit that fixed them requires clear knowing, and that clear knowing is the practice that remains.
 
-*Notes: The implicative and non-implicative negation passage is cross-referenced in the text to Chapter 3 ("What 'logic' means here": a negation without a thesis) and Chapter 11 (the eight negations), and the terms are defined in Appendix B. The final paragraph was read against the Preface (2026-10-22): both end where the book began, with the observer not found, vividness without a viewer, and nothing produced to replace the habit; the closing stress on clear knowing follows items 4 and 8 of the canonical view.*
+*Notes: The implicative and non-implicative negation passage is cross-referenced in the text to Chapter 4 ("What 'logic' means here": a negation without a thesis) and Chapter 12 (the eight negations), and the terms are defined in Appendix B. The final paragraph was read against the Preface (2026-10-22): both end where the book began, with the observer not found, vividness without a viewer, and nothing produced to replace the habit; the closing stress on clear knowing follows items 4 and 8 of the canonical view.*
 
 ---
 

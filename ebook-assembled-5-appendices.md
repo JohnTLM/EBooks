@@ -16,28 +16,28 @@ The chapters of this book draw on the following verses of the *Mūlamadhyamakak�
 
 | Verse | Subject | Chapter(s) |
 | --- | --- | --- |
-| Homage | Dependent arising without arising or ceasing, without coming or going; the quieting of elaborations as peace | 11 |
-| 1.1 | Refutation of arising from self, other, both, and without cause; non-arising | 11, 16 |
-| 1.5 | Conditions and what arises from them. No MMK 1.5 salt-and-water passage has been found; the Chapter 7 example is the book's own illustration. | 7 |
-| 2 | Motion; walker and walking designated together | 10 |
-| 2.18–21 | The goer is neither identical with nor different from the going; changer and change | 10 |
-| 3 | Seeing, seer and seen; no seeing by its own nature; the chain of dependence | 1, 15 |
-| 5 | Space and its characteristic; the analysis of characterised and characteriser | 4 |
-| 7 | The conditioned: arising, abiding and ceasing | 11 |
-| 10.1 | Fire and fuel: neither one nor other | 3 |
-| 13.8 | Those who take emptiness as a view are incurable | 17, 22 |
-| 14 | Seer, seeing and seen; the analysis of contact and otherness | 1, 15 |
-| 15.2 | Own-nature (svabhāva) is defined as non-contingent and not dependent on anything other than itself. | 3, 11 |
-| 15.10–11 | Existence and non-existence of a thing standing on its own; permanence and annihilation | 3, 11 |
-| 18.5 | Proliferation ceases in emptiness | 13 |
-| 18.10 | Neither identical with nor different from what it depends on | 11 |
-| 19 | Time; the anaesthesia and the river of time | 3, 9 |
-| 24.8–10 | Conventional and ultimate truth; neither is a lower stage | 12 |
-| 24.14 | For whom emptiness is possible, everything is possible (the verb yujyate: "fits") | 7 |
-| 24.16–20 | Practice works because nothing is fixed | 22 |
-| 24.18 | Dependent co-arising is emptiness; that, being dependent designation, is the middle way | 13, 16 |
-| 24.19 | There is not one phenomenon that has not arisen dependently, and so none that is not empty | 13, 17 |
-| 27 | Continuity without persistence; neither identical nor wholly different | 8 |
+| Homage | Dependent arising without arising or ceasing, without coming or going; the quieting of elaborations as peace | 12 |
+| 1.1 | Refutation of arising from self, other, both, and without cause; non-arising | 12, 17 |
+| 1.5 | Conditions and what arises from them. No MMK 1.5 salt-and-water passage has been found; the Chapter 8 example is the book's own illustration. | 8 |
+| 2 | Motion; walker and walking designated together | 11 |
+| 2.18–21 | The goer is neither identical with nor different from the going; changer and change | 11 |
+| 3 | Seeing, seer and seen; no seeing by its own nature; the chain of dependence | 1, 16 |
+| 5 | Space and its characteristic; the analysis of characterised and characteriser | 5 |
+| 7 | The conditioned: arising, abiding and ceasing | 12 |
+| 10.1 | Fire and fuel: neither one nor other | 4 |
+| 13.8 | Those who take emptiness as a view are incurable | 18, 23 |
+| 14 | Seer, seeing and seen; the analysis of contact and otherness | 1, 16 |
+| 15.2 | Own-nature (svabhāva) is defined as non-contingent and not dependent on anything other than itself. | 4, 12 |
+| 15.10–11 | Existence and non-existence of a thing standing on its own; permanence and annihilation | 4, 12 |
+| 18.5 | Proliferation ceases in emptiness | 14 |
+| 18.10 | Neither identical with nor different from what it depends on | 12 |
+| 19 | Time; the anaesthesia and the river of time | 4, 10 |
+| 24.8–10 | Conventional and ultimate truth; neither is a lower stage | 13 |
+| 24.14 | For whom emptiness is possible, everything is possible (the verb yujyate: "fits") | 8 |
+| 24.16–20 | Practice works because nothing is fixed | 23 |
+| 24.18 | Dependent co-arising is emptiness; that, being dependent designation, is the middle way | 14, 17 |
+| 24.19 | There is not one phenomenon that has not arisen dependently, and so none that is not empty | 14, 18 |
+| 27 | Continuity without persistence; neither identical nor wholly different | 9 |
 
 ---
 
@@ -89,15 +89,15 @@ The chapters of this book draw on the following verses of the *Mūlamadhyamakak�
 
 **Rang grol.** Self-release: thought dissolves when it is not followed or fixed. The term is standard in Dzogchen and Mahāmudrā (Wikipedia, "Dzogchen"; Studybuddhism glossary).
 
-**Rang rig.** Self-cognizing awareness (Sanskrit *svasaṃvitti*). The Dzogchen position on it is debated: Mipham's *Beacon of Certainty* (Pettit 1999) defends Dzogchen in Madhyamaka terms, and Higgins (2013) reads Longchenpa as rejecting self-reflective awareness. Chapter 18 presents these readings and the Madhyamaka objection.
+**Rang rig.** Self-cognizing awareness (Sanskrit *svasaṃvitti*). The Dzogchen position on it is debated: Mipham's *Beacon of Certainty* (Pettit 1999) defends Dzogchen in Madhyamaka terms, and Higgins (2013) reads Longchenpa as rejecting self-reflective awareness. Chapter 19 presents these readings and the Madhyamaka objection.
 
-**Recognition** (*ngo shes*; *rang ngo shes* for self-recognition). In Dzogchen, the central term of the path. Knowledge of the basis (*rigpa*) comes from recognising it, and recognition is often identified with awakening: the recognition of the basis is "awakening" in the Dzogchen sources as summarised by Wikipedia. The book does not dispute that recognition is decisive. Its chapter title, "Recognition, Not Effort" (Chapter 22), means only that recognition is not produced by effort or accumulated as a state. See the Note on Method, fourth departure.
+**Recognition** (*ngo shes*; *rang ngo shes* for self-recognition). In Dzogchen, the central term of the path. Knowledge of the basis (*rigpa*) comes from recognising it, and recognition is often identified with awakening: the recognition of the basis is "awakening" in the Dzogchen sources as summarised by Wikipedia. The book does not dispute that recognition is decisive. Its chapter title, "Recognition, Not Effort" (Chapter 23), means only that recognition is not produced by effort or accumulated as a state. See the Note on Method, fourth departure.
 
 **Reification.** Taking an abstraction, or an appearance, to exist as a thing in its own right, standing beneath the particulars.
 
 **Rigpa** (*rig pa*). In Dzogchen, the knowledge of the basis, and the pristine awareness that is the basis itself. Its opposite is *ma rigpa*, ignorance, the failure to recognise the basis. Sanskrit *vidyā* ("knowledge"). The book's "knowing clarity" is a gloss on this, not a translation. Ācārya Malcolm Smith translates rigpa as *vidyā*, prefers to leave it untranslated, and holds that rendering it as "awareness" is wrong (quoted in his DharmaWheel posts and the Wisdom Podcast). *Confirmed by Wikipedia's Rigpa article: "knowledge of the ground," opposite ma rigpa.*
 
-**Svalakṣaṇa.** The particular, what characterises itself alone, in Dignāga's and Dharmakīrti's epistemology. Candrakīrti's first chapter answers a view closely resembling Dignāga's (Arnold 2003, "Candrakīrti on Dignāga on Svalakṣaṇas," *JIABS*). See Chapter 4.
+**Svalakṣaṇa.** The particular, what characterises itself alone, in Dignāga's and Dharmakīrti's epistemology. Candrakīrti's first chapter answers a view closely resembling Dignāga's (Arnold 2003, "Candrakīrti on Dignāga on Svalakṣaṇas," *JIABS*). See Chapter 5.
 
 **Ultimate truth** (*paramārtha-satya*). Not a higher world, but the emptiness of the conventional one.
 
@@ -112,15 +112,15 @@ The Beginner's Companion is this book's own step-by-step path, in eleven rounds.
 
 - **Round 1: The observer.** Look for the witness behind seeing and hearing. Chapters 1 and 2.
 - **Round 2: Vividness without a viewer.** Notice that experience is vivid without a holder. Chapter 2.
-- **Round 3: The chariot and the parts.** Apply the chariot to the observer and to objects. Chapters 1 and 13.
-- **Round 4: Dependence and designation.** The Dharmakīrti and Candrakīrti exchange, with the rope and snake. Chapters 4 and 5.
-- **Round 5: The Given and its alternatives.** The two-storey picture, the Given, and conceptual all the way down. Chapters 4, 5 and 14.
-- **Round 6: Energy, potentiality and continuity.** Test each candidate for a carrier. Chapters 6, 7 and 8.
-- **Round 7: Change without a changer.** Look for the changer apart from the change. Chapter 10.
-- **Round 8: The eight extremes.** Apply each extreme to a single object. Chapter 11.
-- **Round 9: Analysis and seeing.** Use the dividing mind against itself, then rest in non-dividing seeing. Chapters 13 and 15.
-- **Round 10: The taste.** Notice seen as just seen, heard as just heard. Chapter 20.
-- **Round 11: The meal.** The painted food and painted hunger exercise. Chapter 21.
+- **Round 3: The chariot and the parts.** Apply the chariot to the observer and to objects. Chapters 1 and 14.
+- **Round 4: Dependence and designation.** The Dharmakīrti and Candrakīrti exchange, with the rope and snake. Chapters 5 and 6.
+- **Round 5: The Given and its alternatives.** The two-storey picture, the Given, and conceptual all the way down. Chapters 5, 6 and 15.
+- **Round 6: Energy, potentiality and continuity.** Test each candidate for a carrier. Chapters 7, 8 and 9.
+- **Round 7: Change without a changer.** Look for the changer apart from the change. Chapter 11.
+- **Round 8: The eight extremes.** Apply each extreme to a single object. Chapter 12.
+- **Round 9: Analysis and seeing.** Use the dividing mind against itself, then rest in non-dividing seeing. Chapters 14 and 16.
+- **Round 10: The taste.** Notice seen as just seen, heard as just heard. Chapter 21.
+- **Round 11: The meal.** The painted food and painted hunger exercise. Chapter 22.
 
 ---
 
@@ -131,16 +131,16 @@ The Beginner's Companion is this book's own step-by-step path, in eleven rounds.
 - Dharmakīrti. *Nyāyabindu*, with Dharmottara's commentary. Translated by F. Th. Stcherbatsky in *Buddhist Logic*, vol. II. Bibliotheca Buddhica 26. Leningrad: Academy of Sciences of the USSR, 1930; Dover reprint, New York, 1962. The definition of perception as free from conceptual construction is in the Nyāyabindu literature; Dignāga's formula is *pratyakṣaṃ kalpanāpoḍhaṃ*, and Dharmakīrti adds "non-erroneous."
 - Dignāga. *Pramāṇasamuccaya*, chapter 1. Translated by Masaaki Hattori, *Dignāga, On Perception, being the Pratyakṣapariccheda of Dignāga's Pramāṇasamuccaya*. Harvard Oriental Series 47. Cambridge, MA: Harvard University Press, 1968.
 - Dōgen. *Genjōkōan*. Translated by Paul Jaffe in Hakuun Yasutani, *Flowers Fall: A Commentary on Zen Master Dōgen's Genjōkōan*. Boston: Shambhala, 1996. The Jaffe wording of the firewood-and-ash passage is as shown on the Terebess Zen Literature page for the Genjōkōan: https://terebess.hu/zen/dogen/KS-Genjo.html.
-- Dōgen. "Painting of a Rice Cake" (*Gabyō*). Translated by Kazuaki Tanahashi and Dan Welch. In *Moon in a Dewdrop: Writings of Zen Master Dōgen*, edited by Kazuaki Tanahashi. San Francisco: North Point Press, 1985. Chapter 21 paraphrases the fascicle and does not quote it.
+- Dōgen. "Painting of a Rice Cake" (*Gabyō*). Translated by Kazuaki Tanahashi and Dan Welch. In *Moon in a Dewdrop: Writings of Zen Master Dōgen*, edited by Kazuaki Tanahashi. San Francisco: North Point Press, 1985. Chapter 22 paraphrases the fascicle and does not quote it.
 - Garfield, Jay L. *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. New York: Oxford University Press, 1995. (MMK 24.18 translation; verse numbering in Appendix A.)
-- Longchenpa. *The Natural Freedom of the Nature of Mind* (*Sems nyid rang grol*). Translated by Herbert V. Guenther as "The Natural Freedom of Mind," *Crystal Mirror* IV (Berkeley: Dharma Publishing, 1975); and by Tulku Thondup as "Naturally Liberated Mind, the Great Perfection," in *The Practice of Dzogchen* (Ithaca: Snow Lion, 1989). Cited in Chapter 19 for its theme.
+- Longchenpa. *The Natural Freedom of the Nature of Mind* (*Sems nyid rang grol*). Translated by Herbert V. Guenther as "The Natural Freedom of Mind," *Crystal Mirror* IV (Berkeley: Dharma Publishing, 1975); and by Tulku Thondup as "Naturally Liberated Mind, the Great Perfection," in *The Practice of Dzogchen* (Ithaca: Snow Lion, 1989). Cited in Chapter 20 for its theme.
 - *Milindapañha*. The lamp image of Nāgasena (Book II). Translated by T. W. Rhys Davids, *The Questions of King Milinda*, Part I. Sacred Books of the East 35. Oxford: Clarendon Press, 1890.
 - Mipham. *Mipham's Beacon of Certainty: Illuminating the View of Dzogchen, the Great Perfection*. Translated and introduced by John Whitney Pettit. Studies in Indian and Tibetan Buddhism. Boston: Wisdom Publications, 1999.
 - Robinson, Richard H. *Early Mādhyamika in India and China*. Madison: University of Wisconsin Press, 1967. (MMK 24.18 translation.)
 - Siderits, Mark, and Shōryū Katsura. *Nāgārjuna's Middle Way: Mūlamadhyamakakārikā*. Classics of Indian Buddhism. Boston: Wisdom Publications, 2013. (MMK 24.18 translation; verse numbering in Appendix A.)
-- Sprung, Mervyn, trans., with T. R. V. Murti and U. S. Vyas. *Lucid Exposition of the Middle Way: The Essential Chapters from the Prasannapadā of Candrakīrti*. London and Henley: Routledge & Kegan Paul, 1979. (Also issued by Prajñā Press, Boulder, 1979.) Source of the MMK 24.18 rendering cited in Chapter 13.
-- Tsongkhapa. *Great Treatise on the Stages of the Path* (*Lam rim chen mo*), special-insight section (*Lhag mthong chen mo*, Great Exposition of Special Insight). Translated by the Lamrim Chenmo Translation Committee, *The Great Treatise on the Stages of the Path to Enlightenment*, vol. 3, edited by Joshua W. C. Cutler and Guy Newland. Ithaca: Snow Lion, 2002. Source of the three criteria for conventional existence (Chapter 12).
-- *Udāna* 1.10, the Bahiya sutta. Translated by Ṭhānissaro Bhikkhu. Access to Insight: https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html. Chapters 2 and 20 quote this translation.
+- Sprung, Mervyn, trans., with T. R. V. Murti and U. S. Vyas. *Lucid Exposition of the Middle Way: The Essential Chapters from the Prasannapadā of Candrakīrti*. London and Henley: Routledge & Kegan Paul, 1979. (Also issued by Prajñā Press, Boulder, 1979.) Source of the MMK 24.18 rendering cited in Chapter 14.
+- Tsongkhapa. *Great Treatise on the Stages of the Path* (*Lam rim chen mo*), special-insight section (*Lhag mthong chen mo*, Great Exposition of Special Insight). Translated by the Lamrim Chenmo Translation Committee, *The Great Treatise on the Stages of the Path to Enlightenment*, vol. 3, edited by Joshua W. C. Cutler and Guy Newland. Ithaca: Snow Lion, 2002. Source of the three criteria for conventional existence (Chapter 13).
+- *Udāna* 1.10, the Bahiya sutta. Translated by Ṭhānissaro Bhikkhu. Access to Insight: https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html. Chapters 2 and 21 quote this translation.
 
 **Dzogchen and Madhyamaka secondary sources consulted for the glossary**
 

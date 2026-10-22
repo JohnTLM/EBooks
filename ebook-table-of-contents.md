@@ -159,3 +159,4 @@ All four articles flagged as provisional have now been read in full: *Isn't ener
 - Chapter titles in this plan are the working titles. The assembled text is authoritative (for example, Chapter 14 is "Reification and Svabhāva as a Way of Seeing" and Chapter 22 is "Recognition, Not Effort").
 - Appendix C keeps eleven rounds as the book's own path (author's decision, 2026-10-22), not the "rounds 1–5" planned above.
 - See `verification-log.md`, section "Assembly brief pass", for the item-by-item record.
+- 2026-10-22, later: the book now has 23 chapters. A new Chapter 3, "Ignorance and Its Habit", opens Part II, and the chapters above from 3 onward are now numbered one higher (see `verification-log.md`).
