@@ -22,7 +22,7 @@ The test is not what people say when asked, but what they do when they are not a
 
 *In space.* Asked, few people will say that space is a thing. Yet almost everyone pictures it as one: a vast, empty room in which objects are placed, which would remain if every star were removed. Newton wrote the intuition into physics, holding that absolute space stays always the same, without relation to anything outside it. The picture shapes casual speech: there is room for a sofa, nothing between the stars. What is never met is space apart from distance and reach. The room that would survive the removal of everything is not found. It is assumed.
 
-*In time.* Time is held more tightly still. It is pictured as a river flowing on its own, carrying events whether or not anything happens. Language treats time as a substance in two ways at once. It is a moving thing: the deadline approaches, the years went by. And it is a stuff: we spend it, save it, and run out of it. Cultures differ in the shape of the picture, but the substance remains: a time that is somewhere, apart from the events placed in it. The general anaesthetic of Chapter 9 is the plain counter-evidence. Three hours pass on the clock and none in experience. No river was found that flowed by itself.
+*In time.* Time is held more tightly still. It is pictured as a river flowing on its own, carrying events whether or not anything happens. Language treats time as a substance in two ways at once. It is a moving thing: the deadline approaches, the years went by. And it is a stuff: we spend it, save it, and run out of it, the pattern Lakoff and Johnson called "time is money". Cultures differ in the shape of the picture, and speakers of Aymara, Núñez and Sweetser found, place the past in front and the future behind. But the substance remains: a time that is somewhere, apart from the events placed in it. The general anaesthetic of Chapter 9 is the plain counter-evidence. Three hours pass on the clock and none in experience. No river was found that flowed by itself.
 
 *In grammar.* Every sentence about change has a subject and a predicate. The flame flickers, the market falls, I have changed. The subject is held still so that the predicate can happen to it. This is not a theory anyone chose. It is the shape a thought takes before it becomes a thought. Saying that everything changes does not escape it, since "everything" becomes the subject and is still pictured as the thing doing the changing.
 
@@ -38,7 +38,7 @@ What, then, of the famous refusals: neither existent nor non-existent, neither a
 
 This is the difference between the Middle Way and its imitations. A view that claims to transcend logic can say anything, and so says nothing. The logic of dependency says one thing exactly: what is proposed as standing on its own is not found to do so, and the proposal undermines itself.
 
-*Notes: The examples are drawn from "The logic of dependency", with the Newton and Lakoff and Johnson references retained. The king-of-France image is standard in the discussion of presupposition and should be credited if the book wants a source.*
+*Notes: The examples are drawn from "The logic of dependency". Newton (Principia, Scholium to the Definitions), Lakoff and Johnson (Metaphors We Live By, 1980) and Núñez and Sweetser (2006) are named in the body and listed in Appendix D. The king-of-France image is left uncredited: the example is Russell's, but the presupposition reading used here is Strawson's, and it is common property in the philosophy of language.*
 
 ---
 
@@ -125,7 +125,7 @@ From the side of this book, "where did the energy come from, and where did it go
 
 A subtler candidate remains. If nothing is fixed from its own side, appearances seem endlessly malleable. The same dress is seen as white and gold or as blue and black. The same lines are seen as a duck or a rabbit. The same electron appears as a particle or a wave depending on how it is asked. Surely, then, there is a store of potentialities from which these appearances are drawn: Aristotle's potency, Heisenberg's potentia, the abstract space of possibilities that quantum theory describes. Appearances would be the actualisations, and the potentialities what is really there.
 
-This is the move that the book's treatment of quantum measurement calls a substrate for emptiness. Seeing that phenomena have no fixed nature, the substantialist mind gives their openness a home behind them, and so turns emptiness into a new substance, one made of possibilities instead of stuff.
+This is the move that *Substrateless World*, in its treatment of quantum measurement, calls a substrate for emptiness. Seeing that phenomena have no fixed nature, the substantialist mind gives their openness a home behind them, and so turns emptiness into a new substance, one made of possibilities instead of stuff.
 
 But a potential is identified only through its actualisation and its partner. Salt is soluble only in relation to water. A seed is a seed only in relation to the sprout. "Could" is a designation made within a framework of conditions, not a thing waiting backstage. When Nāgārjuna says that for whom emptiness is possible, everything is possible, the verb means "fits" or "works". It does not describe a reservoir.
 
@@ -133,7 +133,7 @@ Nor is the plasticity infinite. Appearances are open because they depend, and co
 
 The Dzogchen word *ma 'gags pa*, unobstructed, fits better than "potential". Nothing blocks the display, and there is no store behind it from which the display comes.
 
-*Notes: The salt-and-water example is the book's own illustration, not an MMK verse, and should not be cited as an MMK passage.*
+*Notes: The salt-and-water example is the book's own illustration, not an MMK verse; no MMK 1.5 salt-and-water passage has been found (Appendix A, row 1.5). The verb in "for whom emptiness is possible, everything is possible" is MMK 24.14. The* Substrateless World *treatment of quantum measurement is cited without a chapter number, since none is confirmed for it.*
 
 ---
 
@@ -147,7 +147,7 @@ A melody known by heart shows how this works. Each playing is new, and none is t
 
 Two consequences follow. The first is that nothing is lost. Memory, responsibility, learning and the karmic continuity the tradition describes are all preserved, as designations that hold. The second is that nothing is fixed. A continuity not carried by an essence can bend. A habit can loosen, a character can soften, a grievance can end, because there was never anything underneath that had to stay the same. Continuity without a carrier is more reliable than the nihilist expects, and more open than the substantialist can allow.
 
-*Notes: The lamp image is drawn from the Milindapañha. The melody and the carrier argument are from "The logic of dependency"; the Chapter 9 material on death is separated out in the next chapter.*
+*Notes: The lamp image is drawn from the Milindapañha. The melody and the carrier argument are from "The logic of dependency"; the death material from "Death and continuity" is in Chapter 9, which follows.*
 
 ---
 
