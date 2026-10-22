@@ -127,4 +127,4 @@ Each item in `UNRESOLVED-ISSUES-for-assembly.md` is listed with what was done. S
 ## Not possible from here
 
 - A1 and A2: the Word files (`anatta-to-emptiness-v24-A4.docx`, `substrateless-world-v67-A4.docx`) are on the author's computer. The replacements are in `docx-and-pdf-replacements.md`, items 1 to 7, with the current and replacement text for each.
-- A3: the PDF builds from the assembled files with `build-ebook-pdf.py` (a trial build on 2026-10-22 gave 81 pages and 34 contents entries, with no warnings). Regenerate the final PDF once E7 is closed and A1 and A2 are done.
+- A3: built on 2026-10-22 from the assembled files with `build-ebook-pdf.py` (85 pages, 34 contents entries, no warnings; house fonts Cormorant Garamond and Source Serif 4 installed locally because the build browser could not reach Google Fonts). Output: `the-observer-and-the-taste-of-presence.pdf`, with `ebook-combined.md` as its source. Rebuild if E7 or A1 and A2 lead to text changes.
