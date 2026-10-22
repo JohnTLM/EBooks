@@ -124,7 +124,8 @@ Each item in `UNRESOLVED-ISSUES-for-assembly.md` is listed with what was done. S
 
 - E7 (link check): needs a browser with normal network access.
 
-## Not possible from here
+## Word and PDF deliverables
 
-- A1 and A2: the Word files (`anatta-to-emptiness-v24-A4.docx`, `substrateless-world-v67-A4.docx`) are on the author's computer. The replacements are in `docx-and-pdf-replacements.md`, items 1 to 7, with the current and replacement text for each.
-- A3: built on 2026-10-22 from the assembled files with `build-ebook-pdf.py` (85 pages, 34 contents entries, no warnings; house fonts Cormorant Garamond and Source Serif 4 installed locally because the build browser could not reach Google Fonts). Output: `the-observer-and-the-taste-of-presence.pdf`, with `ebook-combined.md` as its source. Rebuild if E7 or A1 and A2 lead to text changes.
+- A1. Closed (2026-10-22). Replacements 1 to 6 in `docx-and-pdf-replacements.md` applied by the author to `anatta-to-emptiness-v24-A4.docx` on the author's computer.
+- A2. Closed (2026-10-22). Replacement 7 applied by the author to `substrateless-world-v67-A4.docx` on the author's computer.
+- A3. Closed (2026-10-22). Built from the assembled files with `build-ebook-pdf.py` (85 pages, 34 contents entries, no warnings; house fonts Cormorant Garamond and Source Serif 4 installed locally because the build browser could not reach Google Fonts). Output: `the-observer-and-the-taste-of-presence.pdf`, with `ebook-combined.md` as its source. The Word files are separate books, so A1 and A2 do not change it. Rebuild only if E7 leads to a text change.

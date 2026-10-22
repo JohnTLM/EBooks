@@ -59,5 +59,6 @@ The PDF is older than the ebook master (claude/part-IV-reconciliation.md). Regen
 ## Status
 
 - Markdown and assembled files: corrected, including the title change and the fourth Note on Method point.
-- docx and PDF: not edited. Use the lists above.
+- docx: items 1 to 7 applied by the author on 2026-10-22 (A1, A2 closed).
+- PDF: regenerated on 2026-10-22 from the assembled files (A3 closed).
 - Still unread: Parts II and III, the appendices (beyond the glossary check), and the glossary. A keyword search has not surfaced conflicts there, but it is not a full check.
