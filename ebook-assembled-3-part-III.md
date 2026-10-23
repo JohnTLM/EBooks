@@ -113,7 +113,27 @@ This is why the taste of presence cannot be described as a foundation the analys
 
 It also explains why the habit is hard to see. The mind has learned, through language, perception and emotion, to treat each vivid appearance as a thing with a fixed character. The habit is so reliable that the designation disappears into what is designated. The inherent framework is not argued for. It is assumed each time the appearance is met. Repeated looking loosens the assumption. Each time the formation is watched, the framework is seen to be added, not found. What was taken as a fact about the world is recognised as a way of seeing it, one that works without needing to be true from its own side.
 
-*Notes: The apoha reference is to Dharmakīrti, whose sections are treated in Chapter 5. The Madhyamaka reading of svabhāva as a way of seeing is the book's synthesis and carries the same status note as the rest of the synthesis material.*
+### What, then, is a phenomenon?
+
+Every confusion examined so far comes back to one question: what a phenomenon is.
+
+The habit takes it to be something objectively real. When it is admitted that nothing lasts, the habit retreats one step and holds that a phenomenon must be real at least for a moment, even for a quantum-brief instant. This is not a conclusion reached by reasoning. It is the habit of seeing inherently, and it runs deeper than any theory held about it.
+
+Phenomena present in very different ways. Sometimes they appear concrete and undeniably solid: a ball that can be tossed, an apple that can be bitten, a car that knocks a person down. Sometimes they are ethereal and dreamlike, like ghosts: qualia, mental events, thoughts and feelings. Sometimes they are described as probability clouds or excitations of fields. None of these is more real than the others. The solid is not more real than the dreamlike, and the mental is not more real than the physical. These are different ways of appearing and of being described.
+
+So what exactly are phenomena? They are vivid appearances that are completely unfindable, even as they appear vividly. They cannot be found anywhere: not here, not there, not anywhere, and not even nowhere. They are not in one's own mind, and not in the minds of others. Their absence is not a place or a thing either.
+
+Yet they undeniably appear: as colours, sounds, tastes, smells, thoughts and sensations, as cars, planes and birds. They arise dependently whenever their conditions come together. The conditions are as unfindable as what they condition. They are not a solid web hidden behind the appearance. They too are appearances, as dreamlike as the apple.
+
+Magical, and miraculous.
+
+The vividness is not lit by a knower behind it. Its clarity is its own, the same in a colour, a sound or a thought. Appearing, clarity and emptiness are not three things, and not one thing standing behind the others.
+
+When the conceptual mind articulates this, it says "dependent arising": an appearing that presents vividly within a network of relationships. But appearing does not wait for that description in order to be dependent. Appearing already is dependent arising. Looked for, it is nowhere to be found. It is empty.
+
+Nor does this have to be searched for in order to be so. When it is recognised, each appearance is met as it is: vivid, unfindable and releasing itself as it arises, with nothing to hold and no one holding.
+
+*Notes: The apoha reference is to Dharmakīrti, whose sections are treated in Chapter 5. The Madhyamaka reading of svabhāva as a way of seeing is the book's synthesis and carries the same status note as the rest of the synthesis material. The closing section, "What, then, is a phenomenon?", is the author's own formulation (added 2026-10-23); it cites no sources and needs no verification entry. "Releasing itself" renders rang grol, as in the glossary.*
 
 ---
 
