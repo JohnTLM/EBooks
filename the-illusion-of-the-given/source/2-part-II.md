@@ -77,7 +77,7 @@ In practice, of course, we speak from the human world, and from here it is perfe
 
 Buddhist traditions themselves describe the realms in two quite different ways, and it helps to see both.
 
-- **The Abhidharma map.** Vasubandhu's *Abhidharmakośa* (the *Treasury of Abhidharma*) lays out a vertical cosmos: Mount Meru at the center, continents around it, the god realms above, and the hell realms below. It places the main abode of the hungry ghosts, the realm of Yama, far beneath our continent, while also allowing that some hungry ghosts wander among humans. This is a spatial map.
+- **The Abhidharma map.** Vasubandhu's *Abhidharmakośa* (the *Treasury of Abhidharma*) lays out a vertical cosmos: Mount Meru at the center, continents around it, the god realms above, and the hell realms below, with each realm of rebirth, including that of the hungry ghosts, given its own place. This is a spatial map.
 - **The co-presence map.** Huayan, Tiantai, Vajrayāna, and Dzogchen sources (discussed in Part III) stress instead that the realms, and even the pure lands, are not far away. What separates them is the way of seeing, not distance.
 
 Neither map needs to be treated as the true layout of an absolute space. The Abhidharma map organizes meditation, ethics, and the stages of rebirth; the co-presence map points to how quickly experience can change when perception changes. Read in the light of Part I, both are conventional maps, each useful for its purpose. Neither is the container that holds everything else.
