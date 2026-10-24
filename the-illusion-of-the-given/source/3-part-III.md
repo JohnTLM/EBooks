@@ -23,7 +23,7 @@ The Abhidharma ("higher teaching") traditions organized the Buddha's teachings i
 Its third chapter lays out the cosmos in detail:
 
 - **Three realms:** the desire realm (which contains hell beings, hungry ghosts, animals, humans, and the lower gods), the form realm of subtle meditative gods, and the formless realm of pure meditative absorption.
-- **A vertical geography:** Mount Meru at the center, four continents around it, the god realms rising above, and the hells lying beneath. The main abode of the hungry ghosts, the realm of Yama, is placed far beneath our continent, though some hungry ghosts are also said to wander among humans.
+- **A vertical geography:** Mount Meru at the center, four continents around it, the god realms rising above, and the hells lying beneath. Each realm of rebirth, including that of the hungry ghosts, is given its own place on this map.
 - **Two kinds of world:** the *sattva-loka* (the world of beings) and the *bhājana-loka* (the "vessel world," their shared environment).
 
 Crucially, the fourth chapter opens with the statement that the variety of the world is born of action (*karmajaṃ lokavaicitryam*). The vessel world is not a pre-existing box into which beings are placed. It is formed by the shared karma of the beings who will live in it, and it decays when that karma is exhausted.
@@ -46,7 +46,7 @@ The Yogācāra ("practice of yoga") school, founded by Asaṅga and Vasubandhu i
 
 - **Shared perception without an external object.** As Part I described, Vasubandhu's *Twenty Verses* (*Viṃśatikā*) uses the hungry ghosts who all see the same river of pus to show that shared perception does not require an external object. Beings with similar karma experience similar worlds.
 - **The storehouse consciousness.** Yogācāra explains this through the *ālaya-vijñāna*, a deep layer of consciousness that carries karmic seeds from life to life. Asaṅga's *Compendium of the Mahāyāna* (*Mahāyānasaṃgraha*) distinguishes "common" seeds, which ripen as the shared environment, from "uncommon" seeds, which ripen as each being's own body and senses.
-- **One thing, many seeings.** Yogācāra texts associated with Asaṅga also use the example of one thing seen differently by hungry ghosts, animals, humans, and gods: an early form of the bowl example.
+- **One situation, many seeings.** Later Yogācāra writers return again and again to the hungry ghosts and the river, using them to show that beings with different karma meet the same situation in different ways: an early form of the bowl example.
 
 ### B. Where It Agrees
 

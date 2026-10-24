@@ -53,3 +53,12 @@ If Chromium is already installed somewhere else, set `CHROMIUM_PATH` to its exec
 The old "Comparative Summary" table at the end has been removed. A corrected comparison with Everett is now in Part II, §5.
 
 **Sources and Further Reading** is new.
+
+### Later revision
+
+Two statements that could not be confirmed against the primary texts were reworded so they no longer depend on a specific source:
+
+- **Location of the hungry ghosts' realm** (Part II §2C and Part III §1): the claim that the *Abhidharmakośa* places it beneath our continent, with some hungry ghosts wandering among humans, now says only that the map gives each realm of rebirth its own place.
+- **Asaṅga's use of the example** (Part III §2): the claim that texts linked to Asaṅga list hungry ghosts, animals, humans, and gods now says only that later Yogācāra writers return to the hungry ghosts and the river.
+
+The *Abhidharmakośa* 4.1 quotation (*karmajaṃ lokavaicitryam*) was checked and kept.
