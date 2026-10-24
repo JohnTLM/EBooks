@@ -1,6 +1,6 @@
 ---
 title: "The Architecture of Carrierless Continuity"
-subtitle: "A Plain English Version"
+subtitle: "Deconstructing the Metaphysics of Flow: Dependent Designation, Tsongkhapa's Mere I, and the Vivid Instant"
 ---
 
 ## Summary
