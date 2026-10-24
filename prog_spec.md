@@ -16,6 +16,7 @@ Writing comes first. Do **not** start citation-checking or reference-verificatio
 - Use headings, short bullet lists and numbered steps to show structure. Use one table at most where a contrast really needs it.
 - Keep the author's voice and the article's own conclusions. Do not add new claims, new sources or new sections.
 - Keep diacritics (ā, ī, ṃ, ś, ṣ). Use UTF-8 throughout.
+- Never label the text as a plain-English version. Do not write "A Plain English Version" (or similar) as the subtitle, in the running header, in the text, or on video title slides. Use the article's own title and subtitle.
 
 ## 3. Content must survive: the checklist
 
@@ -63,6 +64,7 @@ If a passage seems to need a term outside this table, check the canon file befor
    subtitle: "Subtitle"
    ---
    ```
+   The subtitle is the article's own subtitle, never "A Plain English Version".
    Use `##` for numbered sections, `###` for subsections, `- ` for bullets, `1. ` for numbered lists, `> ` for a block quotation, and a `|` table where needed. Use `*italic*` and `**bold**`.
 3. Run the checklist in Section 3. Fix anything lost or shifted.
 4. Typeset (Section 6).

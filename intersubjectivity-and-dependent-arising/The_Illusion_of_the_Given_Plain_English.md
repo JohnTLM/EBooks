@@ -1,6 +1,6 @@
 ---
 title: "The Illusion of the Given"
-subtitle: "A Plain English Version"
+subtitle: "Madhyamaka, Non-Foundational Dzogchen, and the Dissolution of the Referent"
 ---
 
 ## Introduction: The Puzzle of Agreement

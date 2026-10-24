@@ -3,7 +3,6 @@ L=open(sys.argv[1]).read().split('\n')
 fm=L.index('---',1); meta={}
 for l in L[1:fm]:
     k,v=l.split(':',1); meta[k]=v.strip().strip('"')
-out=[{'t':'title','x':meta['title'],'sub':meta['subtitle']}]
 i=fm+1; para=[]
 def flush():
     global para
@@ -11,6 +10,7 @@ def flush():
 def q(s):  # smart quotes
     s=re.sub(r'(^|[\s(\[*—])"',r'\1“',s); s=s.replace('"','”')
     s=re.sub(r"(^|[\s(\[*—])'",r'\1‘',s); return s.replace("'",'’')
+out=[{'t':'title','x':q(meta['title']),'sub':q(meta['subtitle'])}]
 while i<len(L):
     l=L[i]
     if not l.strip(): flush(); i+=1; continue
