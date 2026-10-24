@@ -14,6 +14,10 @@ def q(s):  # smart quotes
 while i<len(L):
     l=L[i]
     if not l.strip(): flush(); i+=1; continue
+    if l.startswith('```'):
+        flush(); i+=1; lines=[]
+        while not L[i].startswith('```'): lines.append(L[i]); i+=1
+        out.append({'t':'diagram','lines':lines}); i+=1; continue
     if l.startswith('### '): flush(); out.append({'t':'h2','x':q(l[4:])})
     elif l.startswith('## '): flush(); out.append({'t':'h1','x':q(l[3:])})
     elif l.startswith('> '): flush(); out.append({'t':'quote','x':q(l[2:])})
